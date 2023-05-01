@@ -1,0 +1,68 @@
+<body>
+
+    <div >
+        
+        <input type="text" [(ngModel)]="city"><br><br>
+        <button [disabled]="!city" class='bb' style='--clr:#1e9b'(click)="weatherDetails() ">Weather Forecasting</button>
+        <!--<div class="container">-->
+            
+            <div class="main">
+            <div *ngIf="weatherdetails">
+               
+               
+            <!--<div class="upper-data">
+                <img src="">
+                </div>
+                <div class="weather-data">
+                    <div class="temprature"></div>
+                </div> {{weatherdetails.main.temp}}<br>
+               {{weatherdetails.main.temp_max}}
+               {{weatherdetails.main.temp_min}}
+               {{weatherdetails.main.pressure}}
+               {{weatherdetails.coord.lat}}
+                <div class="lower-data">
+                    </div>
+      
+       </div>-->
+       
+    
+    <div class="div">
+        <strong> City <img src="../assets\city1.jpg " style="margin-right: 210px;"> {{city}} <i class="fa fa-home" style="font-size:24px"></i>
+        </strong>
+        <!-- City :- {{city}} -->
+    </div>
+    <br>
+    <div class="div">
+         <strong style="color: white;">Temperature <img src="../assets/sun.jpg " style="margin-right: 150px;"></strong>
+        
+           {{temp}}<sup>0C</sup>
+    </div>
+    <br>
+    <div class="div">
+        <strong style="color: white;"> Maximum Temperature<img src="../assets/max.jpg " style="margin-right: 80px;"> </strong>
+        
+         {{tempmax}}<sup>0C</sup>
+    </div>
+    <br>
+    <div class="div">
+        <strong style="color: white;"> Minimum Temperature <img src="../assets/min.png " style="margin-right: 80px;"></strong>
+        
+        {{tempmin}}<sup>0C</sup>
+    </div>
+    <br>
+    <div class="div">
+        <strong style="color: white;"> Pressure<img src="../assets/pressure.jpg " style="margin-right: 190px;"></strong>
+        
+          {{pressure}}
+    </div>
+    <br>
+    <div class="div">
+        <strong style="color: white;"> Wind<img src="../assets/wind.jpg " style="margin-right: 210px;"></strong>
+        
+          {{wind}}
+    </div>
+
+</div>
+</div>
+</div>
+</body>
