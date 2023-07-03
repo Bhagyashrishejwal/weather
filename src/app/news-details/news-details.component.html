@@ -1,0 +1,17 @@
+<p>news-details works!</p>
+<div class="container">
+    <h2>News Detail</h2>
+    
+    <div class="news-card">
+      <img [src]="news?.urlToImage" alt="News Image">
+      <div class="card-content">
+        <h3>{{ news?.title }}</h3>
+        <p>{{ news?.description }}</p>
+        <p><strong>Author:</strong> {{ news?.author }}</p>
+        <p><strong>Published At:</strong> {{ news?.publishedAt | date }}</p>
+        <p><strong>Content:</strong> {{ news?.content }}</p>
+        <p><strong>Source:</strong> {{ news?.source.name }}</p>
+        <a routerLink="/">Go Back</a>
+      </div>
+    </div>
+  </div>

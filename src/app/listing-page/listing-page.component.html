@@ -1,0 +1,46 @@
+<!--<p>listing-page works!</p>
+<div class="news-list">
+    <div class="news-card">
+      <img src="" alt="News Image">
+      <h2>hhjkkk</h2>
+      <p>ghhjj</p>
+      <p>Author:</p>
+      <p>Published At: </p>
+    </div>
+  </div>-->
+  <div class="container">
+    <h2>News List</h2>
+    
+    <div class="filters">
+      <label for="country">Country:</label>
+      <select class="form-select form-select mt-3" id="country" [(ngModel)]="selectedCountry">
+        <option value="us">United States</option>
+        <option value="gb">United Kingdom</option>
+        <option value="ca">Canada</option>
+      </select>
+      
+      <label for="fromDate">From:</label>
+      <input type="date" id="fromDate" [(ngModel)]="fromDate">
+      
+      <label for="toDate">To:</label>
+      <input type="date" id="toDate" [(ngModel)]="toDate">
+      
+      <input type="text" placeholder="Search..." [(ngModel)]="searchText">
+    </div>
+    <h5>News List</h5>
+    
+    <!--<div class="news-cards">-->
+      <div class="row mt-5" >
+        
+      <div class="card" *ngFor="let news of newsList" class="col-lg-3 mt-3 mb-3"  >
+        <img [src]="news.urlToImage" alt="News Image" width="100%">
+        <div class="card-content">
+          <h5 class="mt-2 size"><strong>{{ news.title }}</strong></h5>
+          <p>{{ news.description | short:50}}</p>
+          <p><strong>Author:</strong> {{ news.author }}</p>
+        </div>
+        <a [routerLink]="['/news', news.title]" class="btn btn-dark btn-sm mt-2">Read More</a>
+      </div>
+    
+    </div>
+  </div>

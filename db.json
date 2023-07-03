@@ -1,0 +1,2635 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "news":[{
+  "status": "ok",
+  "totalResults": 1846,
+  "articles": [
+  {
+  "source": {
+  "id": null,
+  "name": "Lifehacker.com"
+  },
+  "author": "Anna Lee Beyer",
+  "title": "11 of the Best Ways to Identify Wild Mushrooms",
+  "description": "Have you noticed the world getting a little more obsessed with mushrooms lately? Maybe you steer clear of wild mushrooms entirely because you don’t have a clue what’s delectable, what’s psychedelic, and what’s deadly—but it’s not a bad idea to start studying …",
+  "url": "https://lifehacker.com/11-of-the-best-ways-to-identify-wild-mushrooms-1850589488",
+  "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0534daf65c130ef418d8f96dc64dcc88.jpg",
+  "publishedAt": "2023-06-29T14:30:00Z",
+  "content": "Have you noticed the world getting a little more obsessed with mushrooms lately? Maybe you steer clear of wild mushrooms entirely because you dont have a clue whats delectable, whats psychedelic, and… [+5016 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Lifehacker.com"
+  },
+  "author": "Jessica Kanzler",
+  "title": "You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now",
+  "description": "There’s no substitute for immersing yourself in a new culture, but there are modern tools that can help you learn a new language. Through July 14, a lifetime subscription to Babbel Language Learning is available at only $179.97 (reg. $399) with no coupon requ…",
+  "url": "https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333",
+  "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9596b3d5406593e6f263e68815829119.jpg",
+  "publishedAt": "2023-06-29T19:30:00Z",
+  "content": "Theres no substitute for immersing yourself in a new culture, but there are modern tools that can help you learn a new language. Through July 14, a lifetime subscription to Babbel Language Learning i… [+1196 chars]"
+  },
+  {
+  "source": {
+  "id": "engadget",
+  "name": "Engadget"
+  },
+  "author": "Jon Fingas",
+  "title": "Apple's Beats Studio Pro could include head-tracking spatial audio",
+  "description": "Apple's rumored Beats Studio Pro headphones may be more compelling than AirPods for some listeners. 9to5Macclaims to have leaked specs indicating the Studio Pro will be the first Beats earphones to support head-tracking spatial audio. Until now, only more rec…",
+  "url": "https://www.engadget.com/apples-beats-studio-pro-could-include-head-tracking-spatial-audio-134516351.html",
+  "urlToImage": "https://s.yimg.com/uu/api/res/1.2/6405aAtHNv0irgSgaz80Yg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/0bf857b0-167a-11ee-bea1-3f1e3178b6d7.cf.jpg",
+  "publishedAt": "2023-06-29T13:45:16Z",
+  "content": "Apple's rumored Beats Studio Pro headphones may be more compelling than AirPods for some listeners. 9to5Macclaims to have leaked specs indicating the Studio Pro will be the first Beats earphones to s… [+1635 chars]"
+  },
+  {
+  "source": {
+  "id": "wired",
+  "name": "Wired"
+  },
+  "author": "Parker Hall, Gear Team",
+  "title": "57 'Buy It for Life' Products: Cast Iron, Tools, Speakers, Chairs, and More",
+  "description": "From cast iron pans to mechanical watches, we've rounded up products that are made to last decades.",
+  "url": "https://www.wired.com/story/buy-it-for-life/",
+  "urlToImage": "https://media.wired.com/photos/649b3f359a01d944fee3603e/191:100/w_1280,c_limit/YETI-and-Henry-Gear-230223_wired128920_RGB-NEW.jpg",
+  "publishedAt": "2023-06-29T16:30:00Z",
+  "content": "We're all tired of spending money on stuff that breaks. Whether it's a tool that wears out instantly or a pair of pants that gets a hole too soon, it seems like more things in this world should be so… [+37100 chars]"
+  },
+  {
+  "source": {
+  "id": "the-verge",
+  "name": "The Verge"
+  },
+  "author": "Cameron Faulkner",
+  "title": "How to trade in your MacBook, macOS desktop, iPhone, or iPad",
+  "description": "If you want to trade in your Apple device, be it an iPhone, iPad, or Mac computer, we’ve run through the steps required to get the best return back on your investment.",
+  "url": "https://www.theverge.com/23775945/trade-in-macbook-macos-iphone-pad-how-to",
+  "urlToImage": "https://cdn.vox-cdn.com/thumbor/R0jtyJUQMFFPlQdoD3-2Mrqagxw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952310/HT016_macOS_0004.jpg",
+  "publishedAt": "2023-06-29T14:18:55Z",
+  "content": "Illustration by Samar Haddad / The Verge\r\n\n \n\n If you’re looking to trade in your Apple product — be it a MacBook, iMac, Mac desktop, iPhone, or iPad — you stand to get a pretty good return. Apple’s … [+7740 chars]"
+  },
+  {
+  "source": {
+  "id": "the-verge",
+  "name": "The Verge"
+  },
+  "author": "Jon Porter",
+  "title": "Beats Studio Pro spec sheet appears to leak in full",
+  "description": "A complete list of specs for the Beats Studio Pro over-ears has leaked. They’re expected to have a premium price tag of $349, battery life of up to 40 hours, and USB-C.",
+  "url": "https://www.theverge.com/2023/6/29/23778076/beats-solo-pro-leaked-spec-sheet-battery-life-features-specs",
+  "urlToImage": "https://cdn.vox-cdn.com/thumbor/mgxdxD2iOOYCdMM3yO4suDrfz-w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19316743/cwelch_191024_3759_0003.jpg",
+  "publishedAt": "2023-06-29T11:01:21Z",
+  "content": "Beats Studio Pro spec sheet appears to leak in full\r\nBeats Studio Pro spec sheet appears to leak in full\r\n / The unannounced headphones are said to include support for head-tracked spatial audio, up … [+2506 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Gizmodo.com"
+  },
+  "author": "Kevin Hurler",
+  "title": "King Charles Unveils Jony Ive-Designed Seal for ‘Astra Carta’ Space Sustainability Initiative",
+  "description": "The U.K.’s King Charles III is really serious about keeping space clean, so much so that he unveiled the Astra Carta framework’s seal at Buckingham Palace yesterday.Read more...",
+  "url": "https://gizmodo.com/king-charles-unveils-jony-ive-designed-seal-for-astra-1850590654",
+  "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0f1eae198645f0cba05516e46b7f0310.png",
+  "publishedAt": "2023-06-29T15:45:00Z",
+  "content": "The U.K.s King Charles III is really serious about keeping space clean, so much so that he unveiled the Astra Carta frameworks seal at Buckingham Palace yesterday.\r\nThe Astra Carta framework is a Sus… [+2833 chars]"
+  },
+  {
+  "source": {
+  "id": "ars-technica",
+  "name": "Ars Technica"
+  },
+  "author": "Chuong Nguyen",
+  "title": "Dealmaster: Black Friday in July, pre-Prime Day sales, and a farewell to Star Trek: Prodigy",
+  "description": "Save on laptops, tools, Apple products, and Star Trek merchandise.",
+  "url": "https://arstechnica.com/shopping/2023/06/dealmaster-black-friday-in-july-pre-prime-day-sales-and-a-farewell-to-star-trek-prodigy/",
+  "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Star-Tre-Prodigy-760x380.jpg",
+  "publishedAt": "2023-06-29T16:41:00Z",
+  "content": "2 with \r\nIf you're mourning the cancellation of Star Trek: Prodigy on Paramount Plus, we feel you. To soften the blow, we've dug up deals on Blu-ray and DVD copies of the show. And if you're trying t… [+15270 chars]"
+  },
+  {
+  "source": {
+  "id": "google-news",
+  "name": "Google News"
+  },
+  "author": null,
+  "title": "Apple seeks to fend off EU antitrust charge triggered by Spotify at ... - Reuters.com",
+  "description": "Apple seeks to fend off EU antitrust charge triggered by Spotify at ...  Reuters.com",
+  "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYXBwbGUtc2Vla3MtZmVuZC1vZmYtZXUtYW50aXRydXN0LWNoYXJnZS10cmlnZ2VyZWQtYnktc3BvdGlmeS1oZWFyaW5nLTIwMjMtMDYtMjkv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+  "urlToImage": null,
+  "publishedAt": "2023-06-29T10:33:00Z",
+  "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Android Central"
+  },
+  "author": "tips@androidcentral.com (Nickolas Diaz)",
+  "title": "Samsung lays out its plan to produce better mobile chips",
+  "description": "Samsung details its plans to begin production of 2nm and 1.4nm chips over the next several years.",
+  "url": "https://www.androidcentral.com/phones/samsung-2nm-process-production-plans",
+  "urlToImage": "https://cdn.mos.cms.futurecdn.net/pfyVzktcAoqKdPZy5xx7fc-1200-80.jpg",
+  "publishedAt": "2023-06-29T20:11:00Z",
+  "content": "<ul><li>Samsung announced it will begin mass production of its 2nm process for mobile in 2025 with the 1.4nm process beginning in 2027.</li><li>The 2nm process is said to improve performance by 12%, … [+2534 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MacRumors"
+  },
+  "author": "Juli Clover",
+  "title": "watchOS 10: Top Five New Features",
+  "description": "Alongside iOS 17, iPadOS 17, tvOS 17, and macOS Sonoma, Apple is also introducing watchOS 10, and it brings some of the biggest updates we've seen to watchOS in years. We've got five reasons why it's going to be worth installing ‌watchOS 10‌ when it launches …",
+  "url": "https://www.macrumors.com/2023/06/29/watchos-10-top-5-features/",
+  "urlToImage": "https://images.macrumors.com/t/T9LvCyX5TC3cEOOFDRFgVrtLZTs=/1920x/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg",
+  "publishedAt": "2023-06-29T16:22:41Z",
+  "content": "Alongside iOS 17, iPadOS 17, tvOS 17, and macOS Sonoma, Apple is also introducing watchOS 10, and it brings some of the biggest updates we've seen to watchOS in years. We've got five reasons why it's… [+2651 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNET"
+  },
+  "author": "Corinne Reichert",
+  "title": "Google Pixel Fold Breakdowns: How to Get Replacement Parts on iFixit - CNET",
+  "description": "While screen-cracking reports emerge, iFixit will have replacement parts soon for the new foldable phone from Google.",
+  "url": "https://www.cnet.com/tech/mobile/google-pixel-fold-breakdowns-how-to-get-replacement-parts-on-ifixit/",
+  "urlToImage": "https://www.cnet.com/a/img/resize/b3b58b0034f4fa9a9c8d00e286b07d4b942ff1b5/hub/2023/06/15/84472868-ca70-4988-9458-78d72a99e548/google-pixel-fold-12.jpg?auto=webp&fit=crop&height=675&width=1200",
+  "publishedAt": "2023-06-29T22:07:57Z",
+  "content": "As reports emerge about Google Pixel Fold screens already cracking just a few days after the new phone launched, you might be in need of a fix. Google is making official replacement parts for the Goo… [+2140 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNET"
+  },
+  "author": "Antuan Goodwin",
+  "title": "2024 Kia EV9 First Drive Review: Lightning Strikes Thrice - CNET",
+  "description": "Will Kia's new three-row electric SUV be worth the wait? We head to the automaker's homeland for an early peek.",
+  "url": "https://www.cnet.com/roadshow/news/2024-kia-ev9-first-drive-review/",
+  "urlToImage": "https://www.cnet.com/a/img/resize/01529e9caa345f3f33a23b55f5fc87723d1dde4c/hub/2023/06/28/08fa8f02-0130-484e-8c57-87e77bcb23b1/ogi-2024-kia-ev9-first-drive-734312.jpg?auto=webp&fit=crop&height=675&width=1200",
+  "publishedAt": "2023-06-29T11:49:06Z",
+  "content": "Kia's second dedicated battery electric vehicle is almost guaranteed to be a hit. Combining the best parts of the highly desirable three-row Telluride with the underpinnings of one of our favorite el… [+10020 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MacRumors"
+  },
+  "author": "Mitchel Broussard",
+  "title": "Deals: Amazon Takes $199 Off M1 MacBook Air and M2 13-Inch MacBook Pro",
+  "description": "Amazon has a few deals on various MacBook Air and MacBook Pro models today, starting at just $799.99 for the M1 MacBook Air. Most of these sales include all-time low prices on these notebooks, and all are in stock and ready to ship out this week.\n\n\n\nNote: Mac…",
+  "url": "https://www.macrumors.com/2023/06/29/deals-199-off-m1-macbook-air-3/",
+  "urlToImage": "https://images.macrumors.com/t/23_QgBRjo2LOrtG5I1OQJl_48jA=/2125x/article-new/2022/06/M1-MacBook-Air-Deals-Feature-Cool.jpg",
+  "publishedAt": "2023-06-29T14:54:50Z",
+  "content": "Amazon has a few deals on various MacBook Air and MacBook Pro models today, starting at just $799.99 for the M1 MacBook Air. Most of these sales include all-time low prices on these notebooks, and al… [+1457 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MacRumors"
+  },
+  "author": "Joe Rossignol",
+  "title": "Apollo Now Offers Option to Decline Refund Ahead of June 30 Shutdown",
+  "description": "Popular third-party Reddit app Apollo was updated today with an option for users to decline a refund for their remaining subscription time ahead of the app shutting down. Users who do not exercise this option will automatically receive a pro-rated refund. \n\n\n…",
+  "url": "https://www.macrumors.com/2023/06/28/apollo-decline-refund-option/",
+  "urlToImage": "https://images.macrumors.com/t/Zt_gIMjqyHhz5Cq_8VkX7cT5NS8=/1820x/article-new/2020/05/Apollo-for-Reddit-Feature.png",
+  "publishedAt": "2023-06-29T03:09:59Z",
+  "content": "Popular third-party Reddit app Apollo was updated today with an option for users to decline a refund for their remaining subscription time ahead of the app shutting down. Users who do not exercise th… [+2298 chars]"
+  },
+  {
+  "source": {
+  "id": "business-insider",
+  "name": "Business Insider"
+  },
+  "author": "Will Gendron",
+  "title": "Did people mosh too hard at Bonnaroo? Festival goers triggered accidental 911 calls from the crash-detection on their iPhones and Apple Watches.",
+  "description": "At this year's Bonnaroo music festival in Tennessee, an iPhone and Apple watch feature that auto-dials 911 was reportedly activated by dancing crowds.",
+  "url": "https://www.businessinsider.com/bonnaroo-attendees-triggered-911-calls-apple-phone-watch-crash-detection-2023-6",
+  "urlToImage": "https://i.insider.com/649c815aec2dd400195fd0e9?width=1200&format=jpeg",
+  "publishedAt": "2023-06-29T16:56:40Z",
+  "content": "Dancing reportedly set off a wave of accidental 911 calls at Bonnaroo music festival.Photo by Erika Goldring/Getty Images\r\n<ul>\n<li>This year's Bonnaroo music festival had some false alarms.</li>\n<li… [+1652 chars]"
+  },
+  {
+  "source": {
+  "id": "business-insider",
+  "name": "Business Insider"
+  },
+  "author": "Zinya Salfiti",
+  "title": "Apple is a great company – but not much is driving the tech giant toward a $3 trillion valuation, analyst says",
+  "description": "Apple is on the cusp of hitting a $3 trillion valuation. Investor excitement might not last, Cleo Capital's Sarah Kunst said.",
+  "url": "https://markets.businessinsider.com/news/stocks/apple-stock-vr-vision-pro-wedbush-cleocapital-market-cap-valuation-2023-6",
+  "urlToImage": "https://i.insider.com/649d5123695968001925d49f?width=1200&format=jpeg",
+  "publishedAt": "2023-06-29T10:08:56Z",
+  "content": "Apple CEO Tim Cook.Justin Sullivan/Getty Images\r\n<ul>\n<li>Apple's stock price has surged in 2023, putting the company on the verge of a $3 trillion valuation.</li>\n<li>But investor excitement might n… [+1773 chars]"
+  },
+  {
+  "source": {
+  "id": "business-insider",
+  "name": "Business Insider"
+  },
+  "author": "George Glover",
+  "title": "Forget FAANG and GAMMA, the 'Magnificent 7' tech stocks - including Tesla and Nvidia - now dominate the market",
+  "description": "Investors have piled into Big Tech this year, thanks to the rise of AI and the expectation that the Federal Reserve will soon cut interest rates.",
+  "url": "https://markets.businessinsider.com/news/stocks/tech-stocks-tesla-nvidia-apple-microsoft-amazon-the-magnificent-seven-2023-6",
+  "urlToImage": "https://i.insider.com/649d5b4a695968001925d551?width=1200&format=jpeg",
+  "publishedAt": "2023-06-29T11:24:15Z",
+  "content": "Denzel Washington and Chris Pratt in the 2016 remake of \"The Magnificent Seven\".Sony Pictures\r\n<ul>\n<li>Nvidia, Tesla, and five other mega-cap stocks have started 2023 on a tear, accounting for most … [+2404 chars]"
+  },
+  {
+  "source": {
+  "id": "business-insider",
+  "name": "Business Insider"
+  },
+  "author": "Kimberly Leonard",
+  "title": "Mike Pence raked in $1.4 million for book divulging his pushback against Trump on January 6",
+  "description": "The memoir, \"So Help Me God,\" revealed numerous conversations Pence had with Trump during his time in the White House.",
+  "url": "https://www.businessinsider.com/mike-pence-advance-amount-for-his-book-2023-6",
+  "urlToImage": "https://i.insider.com/649d89c7695968001925d8f2?width=1200&format=jpeg",
+  "publishedAt": "2023-06-29T14:05:08Z",
+  "content": "Former President elect Donald Trump, left, and former Vice President Mike Pence acknowledge the crowd during the first stop of his post-election tour, in Cincinnati on December 1, 2016.John Minchillo… [+3658 chars]"
+  },
+  {
+  "source": {
+  "id": "business-insider",
+  "name": "Business Insider"
+  },
+  "author": "Phil Rosen",
+  "title": "US stocks rise as traders digest upbeat economic data",
+  "description": "First quarter GDP growth was revised to 2% on Thursday, a big jump from the previous revision of 1.3%.",
+  "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-indexes-bond-fed-stress-test-economy-2023-6",
+  "urlToImage": "https://i.insider.com/649d844b695968001925d81e?width=1200&format=jpeg",
+  "publishedAt": "2023-06-29T13:48:09Z",
+  "content": "(Photo by Michael M. Santiago/Getty Images)\r\n<ul>\n<li>US stocks inched higher Thursday, following the Fed's bank stress tests and new economic data. </li>\n<li>Bank stocks moved higher after the bigge… [+2569 chars]"
+  },
+  {
+  "source": {
+  "id": "business-insider",
+  "name": "Business Insider"
+  },
+  "author": "Phil Rosen",
+  "title": "Americans aren't spending like they used to",
+  "description": "Insider's Phil Rosen breaks down what the declining luxury watch market says about the economy.",
+  "url": "https://www.businessinsider.com/consumer-spending-economy-markets-crash-fed-housing-jerome-powell-mortgage-2023-6",
+  "urlToImage": "https://i.insider.com/649c82c96eb0a800194d86c9?width=1200&format=jpeg",
+  "publishedAt": "2023-06-29T10:16:05Z",
+  "content": "Welcome to the second-to-last edition of Opening Bell. I'm Phil Rosen, writing to you from the Big Apple. \r\nYes, that's right. This is the final week of 10 Things Before the Opening Bell. You'll stil… [+4628 chars]"
+  },
+  {
+  "source": {
+  "id": "business-insider",
+  "name": "Business Insider"
+  },
+  "author": "Laura Grace Tarpley, CEPF,Evelyn He",
+  "title": "Oportun (Digit) Savings App Review 2023",
+  "description": "Oportun (previously Digit) is an app that helps you save and invest. Create personalized savings goals and track your progress. Start saving today.",
+  "url": "https://www.businessinsider.com/personal-finance/oportun-savings-app-review",
+  "urlToImage": "https://i.insider.com/61f809ab45edd800183b56f7?width=1200&format=jpeg",
+  "publishedAt": "2023-06-29T13:04:49Z",
+  "content": "Our experts answer readers' banking questions and write unbiased product reviews (here's how we assess banking products). In some cases, we receive a commission from our partners; however, our opinio… [+11672 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Harvard Business Review"
+  },
+  "author": "Daniel Casse",
+  "title": "3 Ways to Nail Your Presentation to the Board",
+  "description": "The boardroom is a distinct forum that requires a different type of presentation and preparation. In this article, the author outlines three practices every business leader should embrace to enhance their board presentations: 1) Start with a governing thesis:…",
+  "url": "https://hbr.org/2023/06/3-ways-to-nail-your-presentation-to-the-board",
+  "urlToImage": "https://hbr.org/resources/images/article_assets/2023/06/June23_29_1296672467.jpg",
+  "publishedAt": "2023-06-29T13:00:00Z",
+  "content": "No one wants a bored board.\r\n\"&gt;\r\nFor most executives, even those at the most senior level, a presentation to the board of directors is the most demanding test of leadership communications. Very fe… [+9743 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "ReadWrite"
+  },
+  "author": "Aleksey Salaz",
+  "title": "Ultimate Review of Later.com | Features, Pricing, Use-Cases",
+  "description": "Welcome to the Ultimate Guide to Later.com – your essential resource for mastering one of the most powerful and user-friendly […]\nThe post Ultimate Review of Later.com | Features, Pricing, Use-Cases appeared first on ReadWrite.",
+  "url": "https://readwrite.com/ultimate-review-of-later-com-features-pricing-use-cases/",
+  "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/06/timothy-hales-bennett-OwvRB-M3GwE-unsplash.jpg",
+  "publishedAt": "2023-06-29T20:35:06Z",
+  "content": "Welcome to the Ultimate Guide to Later.com – your essential resource for mastering one of the most powerful and user-friendly social media scheduling tools available today. As digital marketing evolv… [+22239 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Hipertextual"
+  },
+  "author": "Nolan Rada Galindo",
+  "title": "Mira las primeras imágenes de la nueva temporada de ‘The Morning Show’",
+  "description": "A principios de 2022 se confirmó que The Morning Show tendría una tercera temporada. Sobre la serie, una de las más populares dentro de la plataforma de Apple TV+, no se tenían detalles acerca de su continuidad. Aquella información aclaró el panorama y, tiemp…",
+  "url": "http://hipertextual.com/2023/06/the-morning-show-imagenes-tercera-temporada-apple-tv",
+  "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2021/09/the_morning_show_jay_carson_kerry_ehrin_2.jpg",
+  "publishedAt": "2023-06-29T15:30:52Z",
+  "content": "A principios de 2022 se confirmó que The Morning Show tendría una tercera temporada. Sobre la serie, una de las más populares dentro de la plataforma de Apple TV+, no se tenían detalles acerca de su … [+2612 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Hipertextual"
+  },
+  "author": "Rubén Chicharro",
+  "title": "Xiaomi 13 Ultra, análisis: ¿quién dijo que Xiaomi solo es una marca de móviles asequibles?",
+  "description": "A Xiaomi se le ha quedado un muy interesante catálogo de smartphones de gama alta para este 2023. La compañía, por un lado, presentó a principios de año los Xiaomi 13 y 13 Pro, que destacan por su diseño, rendimiento y apartado fotográfico. Y meses más tarde;…",
+  "url": "http://hipertextual.com/2023/06/xiaomi-13-ultra-review-analisis-opinion",
+  "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/06/xiaomi-13-ultra-001-1.jpg?fit=1920%2C1280&quality=50&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T09:30:00Z",
+  "content": "A Xiaomi se le ha quedado un muy interesante catálogo de smartphones de gama alta para este 2023. La compañía, por un lado, presentó a principios de año los Xiaomi 13 y 13 Pro, que destacan por su di… [+8939 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "HuffPost"
+  },
+  "author": "Kimberley Richards",
+  "title": "Idris Elba Reflects On Some ‘Disgusting’ Responses To James Bond Rumors",
+  "description": "Rumors that the “Luther” actor was being thought of for the next 007 have been circulating for years.",
+  "url": "https://www.huffpost.com/entry/idris-elba-james-bond-rumors-backlash_n_649db7bfe4b028e6472f7c21",
+  "urlToImage": "https://img.huffingtonpost.com/asset/649db827250000370023f488.jpeg?cache=bWYSSoFAxN&ops=1200_630",
+  "publishedAt": "2023-06-29T21:26:29Z",
+  "content": "Idris Elba recently called out some of the criticism he has faced after rumors circulated several years ago that he was slated to become the next James Bond.\r\nDuring a Wednesday appearance on Apple P… [+1891 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Xataka.com"
+  },
+  "author": "Ricardo Aguilar",
+  "title": "WhatsApp aspira a ser el rey de las videollamadas grupales. Su app para Windows admite más participantes que nunca",
+  "description": "WhatsApp no cesa en su intento de convertirse en una aplicación de referencia a la hora de realizar videollamadas. La aplicación propiedad de Meta está empezando a actualizarse en su versión beta para Windows. ¿La principal novedad? El soporte para llamadas d…",
+  "url": "https://www.xataka.com/aplicaciones/whatsapp-aspira-a-ser-rey-videollamadas-grupales-su-app-para-windows-admite-participantes-que-nunca",
+  "urlToImage": "https://i.blogs.es/1a4cf5/1366_2000/840_560.jpeg",
+  "publishedAt": "2023-06-29T08:01:59Z",
+  "content": "WhatsApp no cesa en su intento de convertirse en una aplicación de referencia a la hora de realizar videollamadas. La aplicación propiedad de Meta está empezando a actualizarse en su versión beta par… [+2225 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Xataka.com"
+  },
+  "author": "Javier Marquez",
+  "title": "En su batalla contra TSMC, Samsung promete que comenzará a producir chips de 2 nm a gran escala en 2025",
+  "description": "Los miembros del podio de los principales fabricantes de semiconductores del planeta tienen un objetivo en común: alcanzar la producción a gran escala de chips de 2 nanómetros cuanto antes. Se trata de una carrera de la que solo pueden participar compañías co…",
+  "url": "https://www.xataka.com/componentes/su-batalla-tsmc-samsung-promete-que-comenzara-a-producir-chips-2-nm-a-gran-escala-2025",
+  "urlToImage": "https://i.blogs.es/d3eadc/samsung-semiconductor/840_560.jpeg",
+  "publishedAt": "2023-06-29T19:50:41Z",
+  "content": "Los miembros del podio de los principales fabricantes de semiconductores del planeta tienen un objetivo en común: alcanzar la producción a gran escala de chips de 2 nanómetros cuanto antes. Se trata … [+2397 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Xataka.com"
+  },
+  "author": "Iván Linares",
+  "title": "Asus Zenfone 10, análisis: la definición en el diccionario para móvil compacto y potente",
+  "description": "«Pequeñito pero matón», ésta es una de las mejores definiciones que se le pueden asociar a las más recientes generaciones de Asus Zenfone. Y encaja perfectamente en el móvil que nos ocupa, el Asus Zenfone 10: este último modelo se encuentra en el grupo de los…",
+  "url": "https://www.xataka.com/analisis/asus-zenfone-10-analisis-caracteristicas-precio",
+  "urlToImage": "https://i.blogs.es/81825c/asus-zenfone-10-14/840_560.jpeg",
+  "publishedAt": "2023-06-29T13:30:07Z",
+  "content": "«Pequeñito pero matón», ésta es una de las mejores definiciones que se le pueden asociar a las más recientes generaciones de Asus Zenfone. Y encaja perfectamente en el móvil que nos ocupa, el Asus Ze… [+20542 chars]"
+  },
+  {
+  "source": {
+  "id": "fox-news",
+  "name": "Fox News"
+  },
+  "author": "The Kim Komando Show",
+  "title": "Teddy Bears with AI: Cool, creepy or a true security risk?",
+  "description": "Are artificial intelligence-powered toys the next big thing or the next cybersecurity nightmare? Here's how to ensure your kids play it safe.",
+  "url": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
+  "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/child-sleeping.jpg",
+  "publishedAt": "2023-06-29T23:50:51Z",
+  "content": "In the not-so-distant future, you could walk in on a teddy bear reading a bedtime story to your child. And it wouldnt be just any story itd be a saga tailored to everything the toy knows about your c… [+4231 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Digital Trends"
+  },
+  "author": "Jason Struss",
+  "title": "Everything coming to Amazon Freevee in July 2023",
+  "description": "From Scott Pilgrim vs. the World to the Twilight movies, Amazon's ad-supported free streaming service Freevee is ideal for film fans in July 2023.",
+  "url": "https://www.digitaltrends.com/movies/everything-coming-to-amazon-freevee-in-july-2023/",
+  "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2020/06/scott-pilgrim-netflix-fantasy-films.jpg?resize=1200%2C630&p=1",
+  "publishedAt": "2023-06-29T22:12:33Z",
+  "content": "Summer is finally here, and everyone is still feeling the crunch of inflation in their pocketbooks. With subscription prices for streaming services on the rise, it can be hard to find quality enterta… [+2566 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Digital Trends"
+  },
+  "author": "Andy Boxall",
+  "title": "Asus Zenfone 10 review: meet the anti-Galaxy S23 Ultra",
+  "description": "The Asus Zenfone 10 has all the power of the Galaxy S23 Ultra, but without the massive size. Can it really take on the smaller Galaxy S23?",
+  "url": "https://www.digitaltrends.com/mobile/asus-zenfone-10-review/",
+  "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Zenfone-10-Rear-in-Hand.jpg?resize=1200%2C630&p=1",
+  "publishedAt": "2023-06-29T13:30:51Z",
+  "content": "Asus loves serving a niche. It already does so with a dedicated gaming phone, and its back to doing something similar with the Zenfone 10.\r\nWith the Zenfone 10, Asus is looking at people sick of mass… [+14351 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The Atlantic"
+  },
+  "author": "Hanna Rosin",
+  "title": "The Power of a Failed Revolt",
+  "description": "Staff writers Anne Applebaum and Tom Nichols discuss the week’s events in Russia.",
+  "url": "https://www.theatlantic.com/podcasts/archive/2023/06/power-failed-revolt/674562/?utm_source=feed",
+  "urlToImage": null,
+  "publishedAt": "2023-06-29T16:32:11Z",
+  "content": "<!-----\n\nYay, no errors, warnings, or alerts!\n\nConversion time: 0.94 seconds.\n\n\nUsing this HTML file:\n\n1. Paste this output into your source file.\n2. See the notes and action items below regarding th… [+26534 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Iccl.ie"
+  },
+  "author": "Johnny Ryan",
+  "title": "Last-minute Government amendment seeks to muzzle DPC critics (Ireland)",
+  "description": "ICCL calls on all parties in the Dáil to challenge this amendment when it comes before them for final debate.",
+  "url": "https://www.iccl.ie/news/last-minute-government-amendment-seeks-to-muzzle-dpc-critics/",
+  "urlToImage": "https://www.iccl.ie/wp-content/uploads/2023/06/DPC-plate.jpg",
+  "publishedAt": "2023-06-29T12:05:04Z",
+  "content": "26 June 2023\r\nICCL calls on all parties in the Dáil to challenge amendment \r\nThe Government has added an amendment[1] at the final stages of a miscellaneous provisions bill[2] that would muzzle criti… [+2825 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Businessside.co"
+  },
+  "author": "David Burt",
+  "title": "Journalists should invest in journalism startups, particularly now",
+  "description": "Plus, Substack’s co-founder responds to competition",
+  "url": "https://www.businessside.co/p/editorial-investing",
+  "urlToImage": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fwww.businessside.co%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D519398482%26version%3D9",
+  "publishedAt": "2023-06-29T17:54:02Z",
+  "content": "Hi there,\r\nThis week we learned that a group of former journalists is launching a venture capital firm.\r\nFounder Katherine Tarbox makes the case that journalists reporting skills translate well to in… [+2876 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Micahlerner.com"
+  },
+  "author": null,
+  "title": "Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale",
+  "description": "Comments",
+  "url": "https://www.micahlerner.com/2023/06/29/towards-an-adaptable-systems-architecture-for-memory-tiering-at-warehouse-scale.html",
+  "urlToImage": null,
+  "publishedAt": "2023-06-29T17:35:47Z",
+  "content": "This is one in a series of papers Im reading from ASPLOS. These paper reviews can be delivered weekly to your inbox, or you can subscribe to the Atom feed. As always, feel free to reach out on Twitte… [+12699 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Stratechery.com"
+  },
+  "author": null,
+  "title": "An Interview with Marc Andreessen about AI and How You Change the World",
+  "description": "An interview with Marc Andreessen about COVID, AI opportunities and risk, and a16z’s approach to the future.",
+  "url": "https://stratechery.com/2023/an-interview-with-marc-andreessen-about-ai-and-how-you-change-the-world/",
+  "urlToImage": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=512%2C512&ssl=1",
+  "publishedAt": "2023-06-29T17:12:49Z",
+  "content": "Good morning,\r\nToday’s Stratechery Interview and the last Interview of the summer is with Marc Andreessen. Andreessen hardly needs an introduction: while at the University of Illinois Andreessen co-c… [+89277 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "heise online"
+  },
+  "author": "Leo Becker",
+  "title": "Wettbewerbsverzerrung durch App-Regeln: Apple will angeblich nicht einlenken",
+  "description": "Die EU-Kommission moniert, dass Apps nicht auf günstigere Kaufmöglichkeiten verweisen dürfen. Apple sieht sich einem Bericht zufolge als zu Unrecht beschuldigt.",
+  "url": "https://www.heise.de/news/Wettbewerbsverzerrung-durch-App-Regeln-Apple-will-angeblich-nicht-einlenken-9203036.html",
+  "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/4/0/6/4/apple_logo_regentropfen-3a3edd32a9b0756d.png",
+  "publishedAt": "2023-06-29T16:20:00Z",
+  "content": "Apple steht ein weiteres Treffen mit den EU-Wettbewerbshütern ins Haus. Der Konzern wolle die Vorwürfe der Kommission in dem von Spotify angestoßenen Kartellverfahren am Freitag zurückweisen. Das ber… [+2159 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "heise online"
+  },
+  "author": "Dusan Zivadinovic",
+  "title": "heise+ | Fritzbox als Smart-Home-Zentrale: Die Grundeinrichtung",
+  "description": "Wie man die Fritzbox-Erweiterung Fritzsmart optimal betreibt, dazu schweigt der Hersteller. Daher erklären wir, was bei uns in der Praxis gut funktioniert hat.",
+  "url": "https://www.heise.de/ratgeber/Fritzbox-als-Smart-Home-Zentrale-Die-Grundeinrichtung-9194692.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+  "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/5/9/4/4/8/ct_2023_16_sh2_fritz_andreas_martini_125022_dz_final_01_online_2-f704dff43bf435e6.jpg",
+  "publishedAt": "2023-06-29T05:30:00Z",
+  "content": "Inhaltsverzeichnis\r\nNormalerweise startet eine Praxisanleitung für den Smart-Home-Betrieb ohne Umschweife mit der Problemstellung, fügt Klick-Rezepte zur Lösung an und ist damit schnell auserzählt. U… [+3423 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Michael Potuck",
+  "title": "SmartGym for iOS and Apple Watch gets major update with 74 new exercises, Routine Progress, more",
+  "description": "The popular fitness tracking app and Apple Editors’ Choice award-winner SmartGym for iPhone, iPad, Mac, and Apple Watch is out with a big update today. The release expands its database of exercises to almost 700, there’s a new Routine Progress feature, Apple …",
+  "url": "https://9to5mac.com/2023/06/29/smartgym-7-ios-and-apple-watch-major-update/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/smartgym-7-update-ios-apple-watch.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T16:33:52Z",
+  "content": "The popular fitness tracking app and Apple Editors’ Choice award-winner SmartGym for iPhone, iPad, Mac, and Apple Watch is out with a big update today. The release expands its database of exercises t… [+2091 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Benjamin Mayo",
+  "title": "Apple argues no more changes necessary to App Store policy in Spotify EU antitrust case",
+  "description": "Apple and Spotify are back in court this week, as the EU antitrust case remains ongoing. The EU reached its preliminary conclusion in 2021 that App Store unfairly favoured Apple Music over Spotify and other music streaming services.\nVia Bloomberg, on Friday, …",
+  "url": "https://9to5mac.com/2023/06/29/apple-app-store-policy-spotify/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-music-vs-spotify.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T10:18:44Z",
+  "content": "Apple and Spotify are back in court this week, as the EU antitrust case remains ongoing. The EU reached its preliminary conclusion in 2021 that App Store unfairly favoured Apple Music over Spotify an… [+1901 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Ben Lovejoy",
+  "title": "Apple livestreaming through Chinese ecommerce apps, but no bargains to be had",
+  "description": "It would be hard to imagine iPhones being sold through a home shopping TV channel, but apparently Apple livestreaming in Chinese online shopping apps is a thing.\nLivestreaming is a popular way for Chinese brands to promote themselves, but most of it is every …",
+  "url": "https://9to5mac.com/2023/06/29/apple-livestreaming/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Apple-livestreaming.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T11:07:00Z",
+  "content": "It would be hard to imagine iPhones being sold through a home shopping TV channel, but apparently Apple livestreaming in Chinese online shopping apps is a thing.\r\nLivestreaming is a popular way for C… [+2850 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Zac Hall",
+  "title": "Flagship ‘Morning Show’ returns to Apple TV+ in September for season 3",
+  "description": "Apple TV+ launched in 2019 with a small catalog of original series. Now one of those star-studded flagship shows is returning for its third season.\n“The Morning Show” will return to TV+ in September for a new 10-episode story arc.\n more…\nThe post Flagship ‘Mo…",
+  "url": "https://9to5mac.com/2023/06/29/the-morning-show-season-3/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/10/APPLE_THE-MORNING-SHOW-PREMIERE_JENNIFER-ANISTON-TIM-COOK-REESE-WHITERSPOON_102819.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T14:27:36Z",
+  "content": "Apple TV+ launched in 2019 with a small catalog of original series. Now one of those star-studded flagship shows is returning for its third season.\r\n“The Morning Show” will return to TV+ in September… [+934 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Zac Hall",
+  "title": "AAPL stock continues climb to $3T with record trading highs",
+  "description": "Apple stock (AAPL) recently bucked a year-long trend and set a new record-high closing price. Now investors are looking at a new intraday trading high as well as the highest closing price to date.\nThe company closed at $189.59 per share today after opening at…",
+  "url": "https://9to5mac.com/2023/06/29/aapl-stock-high/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/Tim-Cook-Apple-shareholders.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T20:01:06Z",
+  "content": "Apple stock (AAPL) recently bucked a year-long trend and set a new record-high closing price. Now investors are looking at a new intraday trading high as well as the highest closing price to date.\r\nT… [+1447 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Michael Potuck",
+  "title": "iOS 17 release date? Here’s when to expect the public beta and official release",
+  "description": "Apple launched the iOS 17 developer beta at WWDC and the first public beta is just around the corner. Whether you want to test out the public beta or are curious about the official launch, follow along for when to expect the iOS 17 release date.\n more…\nThe po…",
+  "url": "https://9to5mac.com/2023/06/29/ios-17-release-date/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/ios-17-release-date-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T19:25:00Z",
+  "content": "Apple launched the iOS 17 developer beta at WWDC and the first public beta is just around the corner. Whether you want to test out the public beta or are curious about the official launch, follow alo… [+2315 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Chance Miller",
+  "title": "30-inch iMac and second-gen Apple Watch Ultra rumors, new Beats Studio Pro details",
+  "description": "Benjamin and Chance discuss the appeal of a rumored 30-inch iMac, which could be the Apple Silicon spiritual successor to the Intel iMac Pro. A second-gen Apple Watch Ultra is also said to be coming this fall, faster than some may have expected. More details …",
+  "url": "https://9to5mac.com/2023/06/29/9to5mac-happy-hour-440/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T21:03:02Z",
+  "content": "Benjamin and Chance discuss the appeal of a rumored 30-inch iMac, which could be the Apple Silicon spiritual successor to the Intel iMac Pro. A second-gen Apple Watch Ultra is also said to be coming … [+704 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Filipe Espósito",
+  "title": "Safari Technology Preview updated with features coming to macOS Sonoma",
+  "description": "Apple this month released the first beta of macOS Sonoma, which brings new features such as interactive widgets on the desktop, new tools for editing PDF files, and Game Mode. The update also comes with Safari 17, which brings improvements to Apple’s web brow…",
+  "url": "https://9to5mac.com/2023/06/28/safari-technology-preview-macos-sonoma/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Safari-Technology-Preview-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T01:00:35Z",
+  "content": "Apple this month released the first beta of macOS Sonoma, which brings new features such as interactive widgets on the desktop, new tools for editing PDF files, and Game Mode. The update also comes w… [+2253 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Seth Kurkowski",
+  "title": "9to5Mac Daily: June 29, 2023 – Ask9to5Mac with Benjamin Mayo",
+  "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nConnect: Checkout 9to5Mac’s o…",
+  "url": "https://9to5mac.com/2023/06/29/daily-june-29-2023/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T23:18:14Z",
+  "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+768 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Zac Hall",
+  "title": "Pokémon GO maker says Apple Vision Pro validates their work as it closes studio and cancels games",
+  "description": "Speaking of tech industry layoffs, the makers of Pokémon GO are proving that they’re not immune to growing too fast either. Niantic announced today that it is closing its LA studio and cancelling new and upcoming AR game titles.\n more…\nThe post Pokémon GO mak…",
+  "url": "https://9to5mac.com/2023/06/29/niantic-layoffs-vision-pro/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/06/nba-all-world.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T16:56:27Z",
+  "content": "Speaking of tech industry layoffs, the makers of Pokémon GO are proving that they’re not immune to growing too fast either. Niantic announced today that it is closing its LA studio and cancelling new… [+1299 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Bradley Chambers",
+  "title": "As device management vendors test macOS Sonoma and iOS 17, IT teams should file bug reports with Apple",
+  "description": "We’re heating up on the beta period for Apple’s fall releases as macOS Sonoma, iOS 17, iPadOS 17, and tvOS 17 start on the journey of bug squashing and UI refinements. For IT professionals, this period isn’t a lull period – it’s a time when you should be work…",
+  "url": "https://9to5mac.com/2023/06/29/it-teams-should-be-testing-macos-sonoma/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Screenshot-2023-06-05-at-1.45.58-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T13:00:00Z",
+  "content": "Were heating up on the beta period for Apples fall releases as macOS Sonoma, iOS 17, iPadOS 17, and tvOS 17 start on the journey of bug squashing and UI refinements. For IT professionals, this period… [+2798 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Ben Lovejoy",
+  "title": "Apple Vision diary: Trying the $6,500 Varjo XR-3, to get a better sense of Vision Pro",
+  "description": "There aren’t many cases of another company charging more than Apple for a similar product, but the Varjo XR-3 mixed-reality headset is a rare example.\nNot having been one of the chosen few to be invited to try Vision Pro (was it something I said?), I took adv…",
+  "url": "https://9to5mac.com/2023/06/29/varjo-xr-3-demo/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Varjo-XR-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T12:53:53Z",
+  "content": "There aren’t many cases of another company charging more than Apple for a similar product, but the Varjo XR-3 mixed-reality headset is a rare example.\r\nNot having been one of the chosen few to be inv… [+14288 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Rikka Altland",
+  "title": "Deals: M2/Pro Mac mini up to $150 off, Belkin 15W MagSafe stands from $80, Anker ANC earbuds, more",
+  "description": "It’s Thursday, and that means a fresh batch of deals courtesy of 9to5Toys. On tap today, rare discounts have landed on M2/Pro Mac mini models as all-time low savings takes up to $150 off. Today also saw the debut of the new Anker Soundcore Liberty 4 NC earbud…",
+  "url": "https://9to5mac.com/2023/06/29/m2-mac-mini-anker-earbuds-more/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/Mac-mini-M2-Pro-Pro-Display-XDR-in-background.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T15:46:19Z",
+  "content": "It’s Thursday, and that means a fresh batch of deals courtesy of 9to5Toys. On tap today, rare discounts have landed on M2/Pro Mac mini models as all-time low savings takes up to $150 off. Today also … [+6951 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Ben Lovejoy",
+  "title": "TSMC Arizona chip plant over budget and behind schedule; US workers blamed",
+  "description": "Construction work on TSMC’s Arizona chip plant, which is set to make chips for some older Apple devices, has run over budget and behind schedule – leading to plans to send over hundreds of additional workers from Taiwan to try to address the problems.\nThe new…",
+  "url": "https://9to5mac.com/2023/06/29/tsmc-arizona-chip-plant-delayed/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/TSMC-Arizona-chip-plant-delay.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T13:46:36Z",
+  "content": "Construction work on TSMC’s Arizona chip plant, which is set to make chips for some older Apple devices, has run over budget and behind schedule leading to plans to send over hundreds of additional w… [+2752 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Filipe Espósito",
+  "title": "Apollo for Reddit got its last update with refund rejection and ‘goodbye wallpapers’",
+  "description": "Apollo is probably one of the most popular Reddit clients on Apple platforms. However, due to the latest changes announced by Reddit, most third-party clients are being shut down – and Apollo is one of them. With its last-ever update, Apollo has added an opti…",
+  "url": "https://9to5mac.com/2023/06/29/apollo-reddit-refund-rejection/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/apollo-wallpapers.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T21:55:26Z",
+  "content": "Apollo is probably one of the most popular Reddit clients on Apple platforms. However, due to the latest changes announced by Reddit, most third-party clients are being shut down and Apollo is one of… [+2799 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Michael Potuck",
+  "title": "Could this 4GB sealed original iPhone actually net $100,000 at auction?",
+  "description": "We’ve seen a lot of sealed original iPhones go up for auction in the last year. After a record was set in February at $63,000, demand and prices have died down in the last few months. However, now an auction house has a rare 4GB sealed original iPhone that it…",
+  "url": "https://9to5mac.com/2023/06/29/4gb-sealed-original-iphone-auction-100000/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/rare-4gb-sealed-orig-iphone-auction.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T20:16:50Z",
+  "content": "We’ve seen a lot of sealed original iPhones go up for auction in the last year. After a record was set in February at $63,000, demand and prices have died down in the last few months. However, now an… [+1298 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "9to5Mac"
+  },
+  "author": "Chance Miller",
+  "title": "iPad keyboard maker Brydge revived under new ownership; details on unpaid salaries and unfulfilled orders unknown",
+  "description": "In May, I published an in-depth exposé detailing the downfall of the Brydge, the once-thriving startup making popular keyboard accessories for iPad users. At the time, Brydge told me that an acquisition of the company was in the works involving a “third party…",
+  "url": "https://9to5mac.com/2023/06/29/ipad-keyboard-maker-brydge-acqusition/",
+  "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/brydge-keybaords.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-29T14:10:03Z",
+  "content": "In May, I published an in-depth exposé detailing the downfall of Brydge, the once-thriving startup making popular keyboard accessories for iPad users. At the time, Brydge told me that an acquisition … [+3250 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Android Police"
+  },
+  "author": "Nate Drake",
+  "title": "Motorola's satellite-connectivity upgrade for your smartphone has arrived",
+  "description": "Motorola Defy Satellite Link lets you connect to text messaging and emergency SOS",
+  "url": "https://www.androidpolice.com/motorola-defy-satellite-link-on-sale/",
+  "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/moto-defy-satellite-sky.jpg",
+  "publishedAt": "2023-06-29T21:20:55Z",
+  "content": "If Hollywood is anything to go by, satellite phones are reserved for extreme tasks like contacting ground control from a spaceship, or when you're trapped on an island full of dinosaurs. Still, hiker… [+2582 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Android Police"
+  },
+  "author": "Zach Traverso",
+  "title": "Google TV: Keep your children safe by setting up kids profiles",
+  "description": "Google TV allows you to set up multiple profiles for each family member. Here's how you can set up a kids profile to block inappropriate content",
+  "url": "https://www.androidpolice.com/google-tv-set-up-kids-profile-how-to/",
+  "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/google-tv-explore-even-more-family-hero-1.jpg",
+  "publishedAt": "2023-06-29T19:00:18Z",
+  "content": "Consuming visual media these days is easy since you can buy smart TVs from Sony, Hisense, TCL, and others with streaming included. You can also use a dedicated streaming device from Apple, Roku, or a… [+3377 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Genbeta.com"
+  },
+  "author": "Antonio Vallejo",
+  "title": "Las versiones antiguas de WhatsApp para PC ya no funcionan. Es una gran noticia",
+  "description": "Hasta ahora, el acceso a WhatsApp desde ordenadores se podía hacer de distintas formas. Por un lado, WhatsApp Web nos ofrece la vía más rápida, ya que con tan solo escanear el código QR tenemos acceso a nuestros chats sin la necesidad de descargar ninguna apl…",
+  "url": "https://www.genbeta.com/actualidad/versiones-antiguas-whatsapp-para-pc-no-funcionan-gran-noticia",
+  "urlToImage": "https://i.blogs.es/eb0651/whatsapp/840_560.jpeg",
+  "publishedAt": "2023-06-29T08:56:34Z",
+  "content": "Hasta ahora, el acceso a WhatsApp desde ordenadores se podía hacer de distintas formas. Por un lado, WhatsApp Web nos ofrece la vía más rápida, ya que con tan solo escanear el código QR tenemos acces… [+2460 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Rock Paper Shotgun"
+  },
+  "author": "Graham Smith",
+  "title": "Football Manager 2025 will be \"for the first time in decades, a true sequel\", say Sports Interactive",
+  "description": "Later this year, Sports Interactive will show and release Football Manager 2024, the latest in their long-running sports simulation series. In a blog post earlier today, studio head Miles Jacobsen described FM2024 as \"the most complete version in the series' …",
+  "url": "https://www.rockpapershotgun.com/football-manager-2025-will-be-for-the-first-time-in-decades-a-true-sequel-say-sports-interactive",
+  "urlToImage": "https://assetsio.reedpopcdn.com/Football-Manager-2023-release-date.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+  "publishedAt": "2023-06-29T16:41:12Z",
+  "content": "Later this year, Sports Interactive will show and release Football Manager 2024, the latest in their long-running sports simulation series. In a blog post earlier today, studio head Miles Jacobsen de… [+3194 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Scientific American"
+  },
+  "author": "Lee Billings, Jeffery DelViscio, Alexa Lim, Scientific American",
+  "title": "The Universe Is Abuzz with Giant Gravitational Waves, and Scientists Just Heard Them (Maybe)",
+  "description": "Researchers, using the galaxy as a detector,&nbsp;believe they have detected gravitational waves from monster black holes for the first time.",
+  "url": "https://www.scientificamerican.com/podcast/episode/the-universe-is-abuzz-with-giant-gravitational-waves-and-scientists-just-heard-them-maybe/",
+  "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/C0D9B9FA-378C-4409-BA5C39AD2488D478.gif",
+  "publishedAt": "2023-06-29T01:00:00Z",
+  "content": "[Music]\r\nBillings: This is Cosmos, Quickly. I am Lee Billings. \r\nGravitational waves--ripples in the fabric of space time first predicted by Einstein more than a century ago are one of astronomy's ho… [+15362 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Autoblog"
+  },
+  "author": "Jeremy Korzeniewski",
+  "title": "2024 Jeep Wrangler First Drive Review: More comfortable, most capable",
+  "description": "Filed under:\n Green,Jeep,First Drives,Convertible,SUV,Hybrid,Off-Road Vehicles\n Continue reading 2024 Jeep Wrangler First Drive Review: More comfortable, most capable\n2024 Jeep Wrangler First Drive Review: More comfortable, most capable originally appeared on…",
+  "url": "https://www.autoblog.com/2023/06/29/2024-jeep-wrangler-first-drive-review/",
+  "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/06/28213635/2024-jeep-wrangler-rubicon-392-02.jpg",
+  "publishedAt": "2023-06-29T04:01:00Z",
+  "content": "Jeep has gone through four generations in 38 years of the Wrangler nameplate. The inaugural YJ (square headlights) replaced the CJ line, then morphed into the TJ (correct headlights) that introduced … [+11005 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MarketWatch"
+  },
+  "author": "Emily Bary",
+  "title": "In One Chart: Apple Vision Pro: How early adoption could stack up against the iPhone, Apple Watch and iPod",
+  "description": "Analysts predict that Apple could amass an installed base of 20 million users of the Vision Pro and related devices five years out from the product's launch.",
+  "url": "https://www.marketwatch.com/story/apple-vision-pro-how-early-adoption-could-stack-up-against-the-iphone-apple-watch-and-ipod-f295f889",
+  "urlToImage": "https://images.mktw.net/im-809640/social",
+  "publishedAt": "2023-06-29T19:57:00Z",
+  "content": "Apple Inc. is getting ready to sell its $3,499 Vision Pro mixed-reality headset, and it goes without saying that a price tag like that probably wont engender the same levels of early adoption that th… [+2400 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MarketWatch"
+  },
+  "author": "Jamie Chisholm",
+  "title": "Need to Know: The stock market can rally further, but here’s why it’s too early to celebrate the bear’s demise",
+  "description": "Apple's rise to a $3 trillion market cap and beyond can lift the market in the short term, but BCA Research fears it faces big economic and valuation headwinds",
+  "url": "https://www.marketwatch.com/story/the-stock-market-can-rally-further-but-heres-why-its-too-early-to-celebrate-the-bears-demise-a57afc99",
+  "urlToImage": "https://images.mktw.net/im-809080/social",
+  "publishedAt": "2023-06-29T10:23:00Z",
+  "content": "Apple \r\n AAPL,\r\n +0.63%\r\nshares were a touch firmer in premarket action Thursday, leaving the iPhone maker just a couple of bucks or so shy of a $3 trillion valuation.The milestone is getting some a … [+7057 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (William Gallagher)",
+  "title": "Apple Vision Pro safety concerns limit 'fully immersive' apps",
+  "description": "Developers can create Apple Vision Pro apps that take over a user's whole vision, but if that user moves a certain distance, Apple will switch off the app.An example of a fully immersive Vision Pro app. (Source: Apple)Apple doesn't tend to talk about fully Vi…",
+  "url": "https://appleinsider.com/articles/23/06/29/apple-vision-pro-safety-concerns-limit-fully-immersive-apps",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/55165-111993-000-lead-fully-immersive-xl.jpg",
+  "publishedAt": "2023-06-29T13:57:10Z",
+  "content": "An example of a fully immersive Vision Pro app. (Source: Apple)\r\nDevelopers can create Apple Vision Pro apps that take over a user's whole vision, but if that user moves a certain distance, Apple wil… [+1914 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (Jess Pingrey)",
+  "title": "Daily deals: Apple Pencil $79, $500 off M2 Max MacBook Pro, Apple Watch SE $149, more",
+  "description": "Today's top deals include $250 off an Acer 27\" gaming monitor, $100 off an M2 Mac mini & AppleCare kit, up to 86% off Kodak wireless Bluetooth speakers, 42% off an Asus ZenBook Pro laptop, and more.Save $500 on an M2 MacBook ProThe AppleInsider team combs the…",
+  "url": "https://appleinsider.com/articles/23/06/29/daily-deals-apple-pencil-79-500-off-m2-max-macbook-pro-apple-watch-se-149-more",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/55157-111991-daily-deals-June-29-xl.jpg",
+  "publishedAt": "2023-06-29T15:12:24Z",
+  "content": "Save $500 on an M2 MacBook Pro\r\nToday's top deals include $250 off an Acer 27\" gaming monitor, $100 off an M2 Mac mini &amp; AppleCare kit, up to 86% off Kodak wireless Bluetooth speakers, 42% off an… [+3184 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (William Gallagher)",
+  "title": "Apple to defend itself against Spotify complaint with EU",
+  "description": "The European Union is to hear Apple's argument on Friday, against an anti-steering accusation that was initiated by Spotify, and could lead to an almost $40 billion fine.Spotify's App Store icon (left), Apple Music (right)Back in 2019, Spotify complained to t…",
+  "url": "https://appleinsider.com/articles/23/06/29/apple-to-defend-itself-against-spotify-complaint-with-eu",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/48521-94706-spotify-apple-music-xl.jpg",
+  "publishedAt": "2023-06-29T11:17:05Z",
+  "content": "Spotify's App Store icon (left), Apple Music (right)\r\nThe European Union is to hear Apple's argument on Friday, against an anti-steering accusation that was initiated by Spotify, and could lead to an… [+1551 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (William Gallagher)",
+  "title": "If Apple Vision Pro wasn't expensive enough, a customizer has one for 10x more",
+  "description": "If you were disappointed that Apple Vision Pro costs only $3,500 and have money burning a hole in your pocket, a customizer has a $40,000 treat for you with gold trim and a leather head mount.For the Apple Vision Pro buyer who has, if not everything, at least…",
+  "url": "https://appleinsider.com/articles/23/06/29/if-apple-vision-pro-wasnt-expensive-enough-a-customizer-has-one-for-10x-more",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/55169-111997-000-lead-Caviar-xl.jpg",
+  "publishedAt": "2023-06-29T16:00:50Z",
+  "content": "For the Apple Vision Pro buyer who has, if not everything, at least $40,000 going spare\r\nIf you were disappointed that Apple Vision Pro costs only $3,500 and have money burning a hole in your pocket,… [+2306 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (Amber Neely)",
+  "title": "Award-winning Apple TV+ drama 'The Morning Show' returns for third season",
+  "description": "Apple TV+ Emmy, SAG, and Critics Choice award-winning newsroom drama \"The Morning Show\" returns for its third season on September 13, 2023.\"The Morning Show\"The third season will feature ten episodes, with the first two airing on the premiere date. This seaso…",
+  "url": "https://appleinsider.com/articles/23/06/29/award-winning-apple-tv-drama-the-morning-show-returns-for-third-season",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/54228-109313-the-morning-show-xl.jpg",
+  "publishedAt": "2023-06-29T15:04:44Z",
+  "content": "\"The Morning Show\"\r\nApple TV+ Emmy, SAG, and Critics Choice award-winning newsroom drama \"The Morning Show\" returns for its third season on September 13, 2023.\r\nThe third season will feature ten epis… [+715 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (William Gallagher)",
+  "title": "Apple Vision Pro 'Gaze and Pinch' gesture combo is perfect for AR & VR",
+  "description": "Even before Apple Vision Pro was announced, researchers had been studying the effectiveness of what turned out to be Apple's choice of controls for the headset.Apps on Vision ProAs first revealed at WWDC, Vision Pro automatically selects whatever a user is lo…",
+  "url": "https://appleinsider.com/articles/23/06/29/apple-vision-pro-gaze-and-pinch-gesture-combo-is-perfect-for-ar-vr",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/54746-110847-wwdc_2023_____june_5___apple_1-32-19_screenshot-xl.jpg",
+  "publishedAt": "2023-06-29T12:36:48Z",
+  "content": "Apps on Vision Pro\r\nEven before Apple Vision Pro was announced, researchers had been studying the effectiveness of what turned out to be Apple's choice of controls for the headset.\r\nAs first revealed… [+2569 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (Evan Selleck)",
+  "title": "Despite praise for Apple Vision Pro, 'Pokemon Go' dev evolves into smaller company",
+  "description": "Niantic, the game developer behind the popular augmented reality title 'Pokemon Go', is moving ahead with major layoffs even as the company co-founder and CEO calls out Apple Vision Pro for laying the groundwork for an even more robust AR future.Pokemon GOThe…",
+  "url": "https://appleinsider.com/articles/23/06/29/despite-praise-for-apple-vision-pro-pokemon-go-dev-evolves-into-smaller-company",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/55172-112016-My-project-xl.jpg",
+  "publishedAt": "2023-06-29T19:59:47Z",
+  "content": "Pokemon GO\r\nNiantic, the game developer behind the popular augmented reality title 'Pokemon Go', is moving ahead with major layoffs even as the company co-founder and CEO calls out Apple Vision Pro f… [+2205 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (Andrew O'Hara)",
+  "title": "Everything new in iOS 17 Photos & Camera",
+  "description": "You'll be able to capture, edit, share, and enjoy your photos and videos better than ever in iOS 17 thanks to a litany of new features and changes Apple is introducing. Here's what we've found.iOS 17 Camera and Photo featuresWith iOS 17 installed on our devic…",
+  "url": "https://appleinsider.com/articles/23/06/29/everything-new-in-the-ios-17-photo-camera",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/55145-112015-iOS-17-Photos-and-camera-xl.jpg",
+  "publishedAt": "2023-06-29T19:42:56Z",
+  "content": "iOS 17 Camera and Photo features\r\nYou'll be able to capture, edit, share, and enjoy your photos and videos better than ever in iOS 17 thanks to a litany of new features and changes Apple is introduci… [+6733 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (Evan Selleck)",
+  "title": "Another original, factory-sealed iPhone is up for auction",
+  "description": "There's another sealed, original 4GB iPhone up for auction that could sell for up to $100,000 or more.Factory-sealed OG iPhoneConsidering how much these original iPhones auction for, it's safe to say the original device remains one of the more prestigious pie…",
+  "url": "https://appleinsider.com/articles/23/06/29/another-original-factory-sealed-iphone-is-up-for-auction",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/55173-112017-My-project-xl.jpg",
+  "publishedAt": "2023-06-29T21:23:05Z",
+  "content": "Factory-sealed OG iPhone\r\nThere's another sealed, original 4GB iPhone up for auction that could sell for up to $100,000 or more.\r\nConsidering how much these original iPhones auction for, it's safe to… [+1311 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Elespanol.com"
+  },
+  "author": "Jacinto Araque",
+  "title": "La aplicación que convierte el móvil en termómetro: una revolución médica con resultados muy precisos",
+  "description": "Investigadores de la Universidad de Washington han desarrollado una app que promete medir la temperatura corporal con un margen de error muy bajo.",
+  "url": "https://www.elespanol.com/elandroidelibre/aplicaciones/20230629/aplicacion-convierte-movil-termometro-revolucion-medica-resultados-precisos/774422594_0.html",
+  "urlToImage": "https://s1.eestatic.com/2022/02/21/elandroidelibre/moviles-android/analisis/651945328_234329276_1200x630.jpg",
+  "publishedAt": "2023-06-29T00:47:23Z",
+  "content": "La aparición de fiebre corporal suele ser un claro indicativo de que una persona está enferma, y pese a que en España el termómetro de mercurio ha sido muy utilizado, desde 2009 se dejaron de comerci… [+4465 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Elespanol.com"
+  },
+  "author": "Adrián Raya",
+  "title": "Si el sonido de Spotify te parece de mala calidad, lo nuevo de este rival te interesa",
+  "description": "Tidal ha anunciado la adopción del verdadero sonido en alta definición sin pérdida, ideal para audiófilos y entusiastas.",
+  "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20230629/sonido-spotify-parece-mala-calidad-nuevo-rival-interesa/775172851_0.html",
+  "urlToImage": "https://s1.eestatic.com/2019/11/07/elandroidelibre/el_androide_libre_442718878_234352738_1200x630.jpg",
+  "publishedAt": "2023-06-29T17:14:34Z",
+  "content": "En el mercado del streaming de música, Spotify sigue siendo la líder; pero a diferencia de hace unos años, ahora hay verdaderas alternativas que la complementan e incluso la superan en algunos aspect… [+2890 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Windows Central"
+  },
+  "author": "sendicott47@outlook.com (Sean Endicott)",
+  "title": "Microsoft marches toward a passwordless future with passkey features on Windows 11",
+  "description": "A recent Insider build of Windows 11 introduced several passkey features that allow people to move away from using passwords.",
+  "url": "https://www.windowscentral.com/software-apps/browsing/microsoft-marches-toward-a-passwordless-future-with-passkey-features-on-windows-11",
+  "urlToImage": "https://cdn.mos.cms.futurecdn.net/od5Wn7rAjVxMZDdeWVQbrS-1200-80.jpg",
+  "publishedAt": "2023-06-29T16:54:33Z",
+  "content": "<ul><li>Microsoft is working on native support for passkeys on Windows 11.</li><li>A recent build of Windows 11 added the ability to sign into websites that work with passkeys by using Windows Hello<… [+2010 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Journal du geek"
+  },
+  "author": "Tristan",
+  "title": "Apple pourrait lancer de nouveaux produits au coeur de l’été",
+  "description": "Apple pourrait lancer de nouveaux casques audio avec sa marques Beats dans les prochaines semaines selon les informations de Hurley. \nApple pourrait lancer de nouveaux produits au coeur de l’été",
+  "url": "https://www.journaldugeek.com/2023/06/29/apple-pourrait-lancer-de-nouveaux-produits-au-coeur-de-lete/",
+  "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/06/beats-apple-lancement.jpg",
+  "publishedAt": "2023-06-29T14:30:32Z",
+  "content": "Apple pourrait lancer de nouveaux casques audio avec sa marques Beats dans les prochaines semaines selon les informations de Hurley.Apple ne prend jamais de vacances. Alors que la marque à la pomme s… [+2444 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Journal du geek"
+  },
+  "author": "Rédacteur Invité",
+  "title": "iPhone 14 : il est maintenant disponible pour une bouchée de pain",
+  "description": "Le mobile star d'Apple est un des meilleurs du marché. Et comme son successeur est sur le point de sortir, son prix est en baisse.\niPhone 14 : il est maintenant disponible pour une bouchée de pain",
+  "url": "https://www.journaldugeek.com/2023/06/29/iphone-14-il-est-maintenant-disponible-pour-une-bouchee-de-pain/",
+  "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/05/iphone-14.jpg",
+  "publishedAt": "2023-06-29T18:02:39Z",
+  "content": "Le mobile star d'Apple est un des meilleurs du marché. Et comme son successeur est sur le point de sortir, son prix est en baisse.Apple, via la boutique en ligne d’Amazon, propose en ce moment l’iPho… [+3646 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Journal du geek"
+  },
+  "author": "Amandine Jonniaux",
+  "title": "Data Act : le nouveau règlement européen inquiète déjà",
+  "description": "L'Europe vient de voter l'application du Data Act et plusieurs questions se posent déjà. \nData Act : le nouveau règlement européen inquiète déjà",
+  "url": "https://www.journaldugeek.com/2023/06/29/data-act-le-nouveau-reglement-europeen-inquiete-deja/",
+  "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/06/christian-lue-8yw6tsb8tnc-unsplash-e1650871728791.jpg",
+  "publishedAt": "2023-06-29T10:30:58Z",
+  "content": "L'Europe vient de voter l'application du Data Act et plusieurs questions se posent déjà.Le Data Act va bientôt devenir une réalité légale. Ce mercredi 28 juin 2023, les eurodéputés et le Conseil de l… [+3482 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Journal du geek"
+  },
+  "author": "Gregori Pujol",
+  "title": "Soldes 2023 : ces 10 offres vont sauver votre budget avant l’été ",
+  "description": "Les soldes d'été représentent une excellente opportunité pour économiser sur vos dépenses courantes. Face à l'inflation et au coût croissant de l'énergie, il est préférable d'opter pour des achats à moindre coût maintenant plutôt que de puiser dans vos économ…",
+  "url": "https://www.journaldugeek.com/2023/06/29/soldes-2023-ces-10-offres-vont-sauver-votre-budget-avant-lete/",
+  "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/06/soldes-ete-2023.jpg",
+  "publishedAt": "2023-06-29T12:45:17Z",
+  "content": "Les soldes d'été représentent une excellente opportunité pour économiser sur vos dépenses courantes. Face à l'inflation et au coût croissant de l'énergie, il est préférable d'opter pour des achats à … [+8623 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Theregister.com"
+  },
+  "author": "Jessica Lyons Hardcastle",
+  "title": "Apple joins the opposition to encryption-bypassing 'spy clause' in UK internet law",
+  "description": "Not the iPhone maker's first think-of-the-children rodeo\nApple has joined the rapidly growing chorus of tech organizations calling on British lawmakers to revise the nation's Online Safety Bill – which for now is in the hands of the House of Lords – so that i…",
+  "url": "https://www.theregister.com/2023/06/29/apple_online_safety_bill_opposition/",
+  "urlToImage": "https://regmedia.co.uk/2023/04/17/apple_shutterstock.jpg",
+  "publishedAt": "2023-06-29T06:40:10Z",
+  "content": "Apple has joined the rapidly growing chorus of tech organizations calling on British lawmakers to revise the nation's Online Safety Bill which for now is in the hands of the House of Lords so that it… [+4455 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applesfera.com"
+  },
+  "author": "Isra Fdez",
+  "title": "Apple rompe con todo y deja ver gratis el primer episodio de su serie mejor valorada en el lugar menos esperado",
+  "description": "El capítulo entero para promocionar el final de una serie que ha cosechado las mejores críticas tras 'Severance'. Hablamos de 'Silo', la producción basada en las novelas de Hugh Howey que Apple TV+ ha colocado entre lo más visto en su plataforma y entre las f…",
+  "url": "https://www.applesfera.com/servicios-apple/apple-rompe-todo-deja-ver-gratis-primer-episodio-su-serie-mejor-valorada-lugar-esperado",
+  "urlToImage": "https://i.blogs.es/1dc56c/silo-3025760/840_560.jpeg",
+  "publishedAt": "2023-06-29T18:00:41Z",
+  "content": "El capítulo entero para promocionar el final de una serie que ha cosechado las mejores críticas tras 'Severance'. Hablamos de 'Silo', la producción basada en las novelas de Hugh Howey que Apple TV+ h… [+2207 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applesfera.com"
+  },
+  "author": "Jesús Quesada",
+  "title": "Si buscas un móvil barato y bueno, este iPhone 5G compatible con iOS 16 y potente procesador está de oferta",
+  "description": "No es fácil encontrar un móvil barato y bueno, pero una opción a tener en cuenta podría ser el iPhone SE (2022), que en el outlet de MediaMarkt en eBay se puede comprar totalmente nuevo y con 128 GB de almacenamiento interno por 549 euros.\n<!-- BREAK 1 --><!-…",
+  "url": "https://www.applesfera.com/seleccion/buscas-movil-barato-bueno-este-iphone-5g-compatible-ios-16-potente-procesador-esta-oferta",
+  "urlToImage": "https://i.blogs.es/b9fcb6/iphone-se-en-oferta/840_560.jpeg",
+  "publishedAt": "2023-06-29T15:30:56Z",
+  "content": "No es fácil encontrar un móvil barato y bueno, pero una opción a tener en cuenta podría ser el iPhone SE (2022), que en el outlet de MediaMarkt en eBay se puede comprar totalmente nuevo y con 128 GB … [+2874 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applesfera.com"
+  },
+  "author": "Fran Bouzas",
+  "title": "Malas noticias: Apple sube el precio de iCloud en varios países. Todavía hay una forma de conseguirlo más barato",
+  "description": "iCloud es el servicio de almacenamiento en la nube de Apple. No tiene mucho de diferente con respecto a otros como Google, Dropbox o OneDrive. Sin embargo, sí que es cierto que si cuentas con dispositivos de la marca, todo se integra de forma manera mucho más…",
+  "url": "https://www.applesfera.com/servicios-apple/malas-noticias-apple-sube-precio-icloud-varios-paises-todavia-hay-forma-conseguirlo-barato",
+  "urlToImage": "https://i.blogs.es/007224/diseno-sin-titulo-136/840_560.jpeg",
+  "publishedAt": "2023-06-29T16:05:23Z",
+  "content": "iCloud es el servicio de almacenamiento en la nube de Apple. No tiene mucho de diferente con respecto a otros como Google, Dropbox o OneDrive. Sin embargo, sí que es cierto que si cuentas con disposi… [+2439 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applesfera.com"
+  },
+  "author": "Alberto García",
+  "title": "Este cargador Anker es pequeño, potente e ideal para iPhone, iPad y MacBook, y ahora está de oferta casi a precio mínimo",
+  "description": "Cada vez son más los dispositivos que tenemos en casa, lo que conlleva a que tengamos muchos cargadores. Para ello, los cargadores múltiples son una sencilla solución para evitar este \"problema\", y si hablamos de calidad, el Anker 735 (Nano II) ahora lo tenem…",
+  "url": "https://www.applesfera.com/seleccion/este-cargador-anker-pequeno-potente-e-ideal-para-iphone-ipad-macbook-ahora-esta-oferta-casi-a-precio-minimo",
+  "urlToImage": "https://i.blogs.es/11ffe6/anker-735/840_560.jpeg",
+  "publishedAt": "2023-06-29T11:32:00Z",
+  "content": "Cada vez son más los dispositivos que tenemos en casa, lo que conlleva a que tengamos muchos cargadores. Para ello, los cargadores múltiples son una sencilla solución para evitar este \"problema\", y s… [+2648 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applesfera.com"
+  },
+  "author": "Isra Fdez",
+  "title": "Los funcionarios rusos tienen prohibido llevar iPhones a sus reuniones. Nos tememos cuál es la razón real",
+  "description": "Hace algunas semanas el Gobierno ruso acusó a Apple de colaborar o, como mínimo, coludir con la Agencia de Seguridad Nacional de los Estados Unidos una serie de medidas que comprometían la seguridad de los iPhones de algunos usuarios. Usuarios trabajando dent…",
+  "url": "https://www.applesfera.com/apple-1/funcionarios-rusos-tienen-prohibido-llevar-iphones-a-sus-reuniones-nos-tememos-cual-razon-real",
+  "urlToImage": "https://i.blogs.es/8ff703/jumpstory-download20230629-112357/840_560.jpeg",
+  "publishedAt": "2023-06-29T14:00:03Z",
+  "content": "Hace algunas semanas el Gobierno ruso acusó a Apple de colaborar o, como mínimo, coludir con la Agencia de Seguridad Nacional de los Estados Unidos una serie de medidas que comprometían la seguridad … [+2830 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applesfera.com"
+  },
+  "author": "Fran Bouzas",
+  "title": "¿Cuál es el significado de las etiquetas de ropa?: ahora iOS 17 identifica los símbolos y te los explica",
+  "description": "A todos nos llega más tarde o más temprano ese momento en el que tenemos que poner nuestra primera lavadora. Hasta entonces siempre habían sido nuestros padres o quien fuese los que se habían ocupado de que nuestra ropa estuviese limpia, planchada y lista par…",
+  "url": "https://www.applesfera.com/ios/cual-significado-etiquetas-ropa-ahora-ios-17-identifica-simbolos-te-explica",
+  "urlToImage": "https://i.blogs.es/a13762/diseno-sin-titulo-129/840_560.jpeg",
+  "publishedAt": "2023-06-29T09:02:37Z",
+  "content": "A todos nos llega más tarde o más temprano ese momento en el que tenemos que poner nuestra primera lavadora. Hasta entonces siempre habían sido nuestros padres o quien fuese los que se habían ocupado… [+2146 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applesfera.com"
+  },
+  "author": "Fran Bouzas",
+  "title": "Pensaba que era Twitter, pero la app que más batería gasta de mi iPhone es esta",
+  "description": "Yo me paso todo el día en Twitter. Es parte de mi trabajo. Busco cuáles son las últimas noticias del mundo Apple, filtraciones, curiosidades, atajos, etc. La verdad es que gran parte de los posts que acabo publicando aquí salen precisamente de eso, y por eso …",
+  "url": "https://www.applesfera.com/curiosidades/pensaba-que-era-twitter-app-que-bateria-gasta-mi-iphone-esta",
+  "urlToImage": "https://i.blogs.es/688c97/nathan-dumlao-4fhf4kcnj8a-unsplash-2/840_560.jpeg",
+  "publishedAt": "2023-06-29T12:14:30Z",
+  "content": "Yo me paso todo el día en Twitter. Es parte de mi trabajo. Busco cuáles son las últimas noticias del mundo Apple, filtraciones, curiosidades, atajos, etc. La verdad es que gran parte de los posts que… [+2967 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applesfera.com"
+  },
+  "author": "Miguel López",
+  "title": "Cómo evitar que tu iPhone recuerde todas las redes WiFi a las que te conectas para evitar robo de información",
+  "description": "Cuando nos conectamos a una red WiFi por primera vez, de forma predeterminada, nuestro iPhone guarda el nombre de la red así como la contraseña. Gracias a esto podemos volver a conectarnos a una red anterior con facilidad siempre que la contraseña de acceso s…",
+  "url": "https://www.applesfera.com/tutoriales/como-evitar-que-tu-iphone-recuerde-todas-redes-wifi-a-que-te-conectas-para-evitar-robo-informacion",
+  "urlToImage": "https://i.blogs.es/ada754/iphone-wifi/840_560.jpeg",
+  "publishedAt": "2023-06-29T15:12:01Z",
+  "content": "Cuando nos conectamos a una red WiFi por primera vez, de forma predeterminada, nuestro iPhone guarda el nombre de la red así como la contraseña. Gracias a esto podemos volver a conectarnos a una red … [+2000 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MakeUseOf"
+  },
+  "author": "Johnathan Jaehnig",
+  "title": "RCS vs. MMS vs. SMS: What's the Difference?",
+  "description": "So many messaging protocols, but which one should you use?",
+  "url": "https://www.makeuseof.com/rcs-vs-mms-vs-sms-whats-the-difference/",
+  "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/android-messages-in-google-play-store-listing-feature.jpg",
+  "publishedAt": "2023-06-29T19:15:18Z",
+  "content": "When your text message doesn't send, you could always consider switching to another messaging option. There are a lot of three-word acronyms in text messaging these days: RCS, MMS, and SMS. Which beg… [+7242 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Phandroid - News for Android"
+  },
+  "author": "Ajit Singh",
+  "title": "Best wireless chargers for iPhone 13 in 2023",
+  "description": "Say farewell to wires and charge your iPhone 13 with these wireless chargers.",
+  "url": "https://phandroid.com/2023/06/29/best-wireless-chargers-for-iphone-13-in-2023/",
+  "urlToImage": null,
+  "publishedAt": "2023-06-29T12:11:41Z",
+  "content": "Last year’s Apple iPhone 13 is a great device to own even today. It has all the hardware and software features that make an iPhone worth purchasing. You even get wireless charging with the iPhone whi… [+515 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "DIYphotography"
+  },
+  "author": "Alex Baker",
+  "title": "This app calculates portion size and calories using your smartphone camera",
+  "description": "A new app promises to accurately calculate the calorific content of your food just by snapping a photo on your smartphone. SnapCalorie does exactly what it sounds like: it uses AI (naturally) and other algorithms to analyse what’s on your plate and the amount…",
+  "url": "https://www.diyphotography.net/this-app-calculates-portion-size-and-calories-using-your-smartphone-camera/",
+  "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2023/06/food-calories-scaled.jpg",
+  "publishedAt": "2023-06-29T10:44:13Z",
+  "content": "A new app promises to accurately calculate the calorific content of your food just by snapping a photo on your smartphone. SnapCalorie does exactly what it sounds like: it uses AI (naturally) and oth… [+1478 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Presse-citron"
+  },
+  "author": "Setra",
+  "title": "Comment Apple met la pression à Samsung dans le paiement mobile",
+  "description": "Apple Pay est arrivé sur le territoire de Samsung.",
+  "url": "https://www.presse-citron.net/comment-apple-met-la-pression-a-samsung-dans-le-paiement-mobile/",
+  "urlToImage": "https://www.presse-citron.net/app/uploads/2020/01/Le-logo-de-Samsung-au-CES-de-Las-Vegas.jpg",
+  "publishedAt": "2023-06-29T06:30:32Z",
+  "content": "<ul><li>Au mois de mars, Apple Pay est arrivé en Corée du Sud, le marché domestique de Samsung</li><li>Samsung envisagerait de ce fait dapporter des changements au fonctionnement de Samsung Pay</li><… [+2541 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Presse-citron"
+  },
+  "author": "Stéphane Ficca",
+  "title": "Entre Space Harrier et Shenmue, un jeu exclusif Apple bientôt sur consoles et PC",
+  "description": "Déjà disponible sur Arcade, ce jeu vidéo exclusif Apple prépare son arrivée sur consoles et PC. Et c'est un petit évènement en soi, même si...",
+  "url": "https://www.presse-citron.net/entre-space-harrier-et-shenmue-un-jeu-exclusif-apple-bientot-sur-consoles-et-pc/",
+  "urlToImage": "https://www.presse-citron.net/app/uploads/2023/06/air-twister.jpg",
+  "publishedAt": "2023-06-29T13:00:39Z",
+  "content": "<ul><li>Air Twister, un jeu exclusif Apple Arcade, arrive bientôt sur consoles et PC</li><li>Le jeu est signé d’un certain Yu Suzuki, papa (entre autres) de la saga Shenmue</li><li>Le titre à venir v… [+2671 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Presse-citron"
+  },
+  "author": "Romain Vitt",
+  "title": "Test Asus Zenfone 10 : comment ne pas craquer ?",
+  "description": "Convaincu du potentiel des smartphones compacts, Asus lance le Zenfone 10, son nouveau smartphone premium dont la particularité est donc sa petite taille. Nous l’avons testé en avant-première.",
+  "url": "https://www.presse-citron.net/test-asus-zenfone-10/",
+  "urlToImage": "https://www.presse-citron.net/app/uploads/2023/06/test-asus-zenfone-10.jpg",
+  "publishedAt": "2023-06-29T13:41:38Z",
+  "content": "En 2023, les amateurs de smartphones compacts nont pas grand chose à se mettre sous la dent sils souhaitent séquiper de technologies dernier cri.\r\nParmi les modèles premium les plus compacts, on trou… [+9773 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Pitchfork"
+  },
+  "author": "Jazz Monroe",
+  "title": "Watch Blur’s Video for New Song “St. Charles Square”",
+  "description": "From The Ballad of Darren, their first album in eight years",
+  "url": "https://pitchfork.com/news/watch-blur-video-for-new-song-st-charles-square/",
+  "urlToImage": "https://media.pitchfork.com/photos/649dac1daf9afb28d572d5b5/16:9/w_1280,c_limit/Blur.jpg",
+  "publishedAt": "2023-06-29T16:08:02Z",
+  "content": "Blur have shared a video for a new song called St. Charles Square. It follows The Narcissist as the second single from The Ballad of Darren, which is out July 21 via Parlophone. Watch it below. \r\nThe… [+927 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The A.V. Club"
+  },
+  "author": "Sam Barsanti",
+  "title": "Travis Scott will not face criminal charges in Astroworld deaths",
+  "description": "It’s been nearly two years since 10 people died during a crowd surge at Travis Scott’s Astroworld Festival, and the Houston Chronicle is reporting (via Variety) that a grand jury has decided that he will not face criminal charges. That being said, he still fa…",
+  "url": "https://www.avclub.com/travis-scott-no-criminal-charges-astroworld-deaths-1850593476",
+  "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4275b8072b8ebbeee97fbdf506fe94be.jpg",
+  "publishedAt": "2023-06-29T22:38:00Z",
+  "content": "Its been nearly two years since 10 people died during a crowd surge at Travis Scotts Astroworld Festival, and the Houston Chronicle is reporting (via Variety) that a grand jury has decided that he wi… [+1616 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "HYPEBEAST"
+  },
+  "author": "info@hypebeast.com (Hypebeast)",
+  "title": "'The Morning Show' Unveils Season 3 Premiere Date and First-Look Images",
+  "description": "Apple TV+ on Thursday revealed the official premiere date for season three of the Emmy, SAG and Critics Choice Award-winning drama series The Morning Show, alongside a slew of first-look images. The next installment of the fan-favorite series, which will incl…",
+  "url": "https://hypebeast.com/2023/6/the-morning-show-season-3-premiere-date-first-look-images",
+  "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F06%2Fthe-morning-show-season-3-premiere-date-first-look-images-TW.jpg?w=960&cbr=1&q=90&fit=max",
+  "publishedAt": "2023-06-29T15:46:56Z",
+  "content": "Apple TV+ on Thursday revealed the official premiere date for season three of the Emmy, SAG and Critics Choice Award-winning drama series The Morning Show, alongside a slew of first-look images. The … [+1209 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "HYPEBEAST"
+  },
+  "author": "info@hypebeast.com (Hypebeast)",
+  "title": "Rae Sremmurd Unveils \"Not So Bad (Leans Gone Cold)\" Music Video",
+  "description": "Slim Jxmmi and Swae Lee of Rae Sremmurd are tearing up London in the newly released video for \"Not So Bad (Leans Gone Cold).\" The official music video for the Sremm 4 Life single stitches together footage of the duo galavanting around the city, complete with …",
+  "url": "https://hypebeast.com/2023/6/rae-sremmurd-not-so-bad-leans-gone-cold-music-video",
+  "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F06%2Frae-sremmurd-not-so-bad-leans-gone-cold-visuals-stream-tw.jpg?w=960&cbr=1&q=90&fit=max",
+  "publishedAt": "2023-06-29T19:46:13Z",
+  "content": "Slim Jxmmi and Swae Lee of Rae Sremmurd are tearing up London in the newly released video for “Not So Bad (Leans Gone Cold).” The official music video for the Sremm 4 Life single stitches together fo… [+1169 chars]"
+  }
+  ]
+  },
+  
+  
+  {
+  "status": "ok",
+  "totalResults": 8895,
+  "articles": [
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "benzinga.com",
+  "title": "Burning Man CEO Learned 'So Much' About Psychedelics In BRC: 'We're Here For The Love'",
+  "description": "Burning Man CEO Marian Goddell attended Psychedelic Science 2023 in Denver, where she spoke with MAPS strategic initiatives officer Liana Gillooly at one of the many packed lectures. People from all walks of life end up at Burning Man, Goddell says, citing Te…",
+  "url": "https://biztoc.com/x/588d0fca28c3f4a0",
+  "urlToImage": "https://c.biztoc.com/p/588d0fca28c3f4a0/s.webp",
+  "publishedAt": "2023-06-30T16:16:04Z",
+  "content": "Burning Man CEO Marian Goddell attended Psychedelic Science 2023 in Denver, where she spoke with MAPS strategic initiatives officer Liana Gillooly at one of the many packed lectures.People from all w… [+296 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "marketbeat.com",
+  "title": "Tesla: Can Downgrades Make Sense After A 170% Rally?",
+  "description": "Sometimes the stock market can really make you scratch your head. As investors, we’re used to being always told to follow a trend, buy into a good thing, don’t catch the falling knife. This is why the recent run of downgrades to Tesla Inc’s NASDAQ: TSLA stock…",
+  "url": "https://biztoc.com/x/753881953408d740",
+  "urlToImage": "https://c.biztoc.com/p/753881953408d740/s.webp",
+  "publishedAt": "2023-06-30T16:02:13Z",
+  "content": "Sometimes the stock market can really make you scratch your head. As investors, were used to being always told to follow a trend, buy into a good thing, dont catch the falling knife. This is why the … [+298 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "aol.com",
+  "title": "XPeng stock pops after Chinese EV maker prices SUV below Tesla Model Y",
+  "description": "stock rose as much as 13% on Friday after the Chinese EV maker launched its new mid-sized SUV at a sale price 20% lower than Tesla's Model Y. The G6 vehicle starts at $28,950. Tesla's price for the Model Y currently sits around $47,240. The unveiling in Shang…",
+  "url": "https://biztoc.com/x/e8011004517fb17e",
+  "urlToImage": "https://c.biztoc.com/p/e8011004517fb17e/s.webp",
+  "publishedAt": "2023-06-30T16:00:04Z",
+  "content": "stock rose as much as 13% on Friday after the Chinese EV maker launched its new mid-sized SUV at a sale price 20% lower than Tesla's Model Y.The G6 vehicle starts at $28,950. Tesla's price for the Mo… [+262 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Electrek"
+  },
+  "author": "Fred Lambert",
+  "title": "Tesla (TSLA) is expected to report record deliveries",
+  "description": "Tesla (TSLA) is expected to release its second quarter 2023 delivery results in the coming days, and Wall Street is expecting yet another record quarter for deliveries.\n more…\nThe post Tesla (TSLA) is expected to report record deliveries appeared first on Ele…",
+  "url": "https://electrek.co/2023/06/30/tesla-tsla-expected-report-record-deliveries/",
+  "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/Tesla-extended-warranty-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-30T15:59:17Z",
+  "content": "Tesla (TSLA) is expected to release its second quarter 2023 delivery results in the coming days, and Wall Street is expecting yet another record quarter for deliveries.\r\nWhen it comes to delivering h… [+1917 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "electrek.co",
+  "title": "Tesla gives new owners in the UK a grabbing stick after forcing them to get left-hand-drive",
+  "description": "Tesla has started to deliver new Model S and Model X vehicles in the UK with a grabbing stick after they forced buyers to get left-hand-drive vehicles. Last month, we were surprised to see Tesla announce that they stopped producing new Model S and Model X veh…",
+  "url": "https://biztoc.com/x/607fe71a5a432a6a",
+  "urlToImage": "https://c.biztoc.com/p/607fe71a5a432a6a/og.webp",
+  "publishedAt": "2023-06-30T15:58:15Z",
+  "content": "Tesla has started to deliver new Model S and Model X vehicles in the UK with a grabbing stick after they forced buyers to get left-hand-drive vehicles.Last month, we were surprised to see Tesla annou… [+282 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "forbes.com",
+  "title": "Cruise Line Stocks Make Huge Gains As Demand Soars",
+  "description": "Cruise liner companies Carnival and Royal Caribbean are two of the five biggest-gaining stocks on the S&P 500 this year alongside Tesla, Nvidia and Meta • Carnival saw a 50% increase just this month as pent-up consumer demand unleashed itself on the sector • …",
+  "url": "https://biztoc.com/x/88c5c8c341256502",
+  "urlToImage": "https://c.biztoc.com/p/88c5c8c341256502/s.webp",
+  "publishedAt": "2023-06-30T15:50:07Z",
+  "content": "Cruise liner companies Carnival and Royal Caribbean are two of the five biggest-gaining stocks on the S&amp;P 500 this year alongside Tesla, Nvidia and MetaCarnival saw a 50% increase just this month… [+275 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Vandana Singh",
+  "title": "Amazon Hires Dozens of Former FTC Officials, Volkswagen Discusses With Tesla to Adopt North American Charging Standard, FDA Approves First Hemophilia A BioMarin Gene Therapy: Today's Top Stories",
+  "description": "New York Post FTC Chair Lina Khan's Impact? Amazon Hires Dozens of Former FTC Officials Amazon.Com Inc (NASDAQ: AMZN) is poaching several staffers from the...",
+  "url": "https://finance.yahoo.com/news/amazon-hires-dozens-former-ftc-154800536.html",
+  "urlToImage": "https://media.zenfs.com/en/Benzinga/c2b01d0f9ce7b42a3d9a21215a4c3f88",
+  "publishedAt": "2023-06-30T15:48:00Z",
+  "content": "New York Post\r\nFTC Chair Lina Khan's Impact? Amazon Hires Dozens of Former FTC Officials\r\n<ul><li>Amazon.Com Inc (NASDAQ: AMZN) is poaching several staffers from the Federal Trade Commission as it ge… [+8118 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "finance.yahoo.com",
+  "title": "Tesla Closes In on Another Deliveries Record After Price Cuts",
+  "description": "Tesla Inc. shares have soared 109% this year. In the coming days, one number will be much more important to investors: How many cars did the company deliver in the latest quarter? • None Trump ‘Standing Order’ to Declassify Not Found by DOJ, Intelligence Agen…",
+  "url": "https://biztoc.com/x/7a68e5193c69cf83",
+  "urlToImage": "https://c.biztoc.com/p/7a68e5193c69cf83/og.webp",
+  "publishedAt": "2023-06-30T15:42:24Z",
+  "content": "Tesla Inc. shares have soared 109% this year. In the coming days, one number will be much more important to investors: How many cars did the company deliver in the latest quarter?None Trump Standing … [+304 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "barrons.com",
+  "title": "Apple, XPeng, Tesla, Carnival, Nvidia, and More Stock Market Movers",
+  "description": "Stocks were rising Friday, the last day of a strong second quarter for equities, after the personal consumption expenditures index, the Federal Reserve’s preferred measure of inflation, showed a slight cooling of prices during May.#federalreserves",
+  "url": "https://biztoc.com/x/08c247717576d27e",
+  "urlToImage": "https://c.biztoc.com/p/08c247717576d27e/og.webp",
+  "publishedAt": "2023-06-30T15:42:18Z",
+  "content": "Stocks were rising Friday, the last day of a strong second quarter for equities, after the personal consumption expenditures index, the Federal Reserves preferred measure of inflation, showed a sligh… [+87 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "theguardian.com",
+  "title": "Apple’s market value breaches $3tn mark for first time since January 2022",
+  "description": "Apple market capitalization on Friday breached the $3tn mark for the first time since January last year, as investors bet on the iPhone maker’s ability to grow its revenue even as it explores new markets such as virtual reality. Shares of Apple, which is also…",
+  "url": "https://biztoc.com/x/e1351fc36de5d640",
+  "urlToImage": "https://c.biztoc.com/p/e1351fc36de5d640/s.webp",
+  "publishedAt": "2023-06-30T15:40:05Z",
+  "content": "Apple market capitalization on Friday breached the $3tn mark for the first time since January last year, as investors bet on the iPhone makers ability to grow its revenue even as it explores new mark… [+286 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "techcrunch.com",
+  "title": "Why automakers are rushing to adopt Tesla’s NACS plug and what it means to drivers",
+  "description": "How did the North American electric vehicle market finally decide on a charging port? Gradually, then suddenly, to paraphrase Ernest Hemingway. The war isn’t over yet, but with Electrify America announcing this week that it would add Tesla’s North American Ch…",
+  "url": "https://biztoc.com/x/9be35dae147cd1fa",
+  "urlToImage": "https://c.biztoc.com/p/9be35dae147cd1fa/s.webp",
+  "publishedAt": "2023-06-30T15:38:03Z",
+  "content": "How did the North American electric vehicle market finally decide on a charging port?Gradually, then suddenly, to paraphrase Ernest Hemingway.The war isnt over yet, but with Electrify America announc… [+296 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "TheStranger.com"
+  },
+  "author": "Nathalie Graham",
+  "title": "Slog AM: Supreme Court Allows Same-Sex Discrimination, Kills Student Debt Relief, Meanwhile Seattle Cracks Down on Dogs on Ballfields",
+  "description": "The Stranger's morning news roundup.\n \n by Nathalie Graham\n \n \n \n Happy last day of Pride month, the Supreme Court hates you: In a 6-3 ruling, the Supreme Court sided with the homophobic Colorado website designer in the 303 Creative v. Elenis case. Plaintiff …",
+  "url": "https://www.thestranger.com/slog-am/2023/06/30/79058237/slog-am-supreme-court-allows-same-sex-discrimination-kills-student-debt-relief-meanwhile-seattle-cracks-down-on-dogs-on-ballfields",
+  "urlToImage": "https://media2.fdncms.com/stranger/imager/u/large/79058346/gettyimages-1409557303.jpg",
+  "publishedAt": "2023-06-30T15:30:00Z",
+  "content": "Happy last day of Pride month, the Supreme Court hates you: In a 6-3 ruling, the Supreme Court sided with the homophobic Colorado website designer in the 303 Creative v. Elenis case. Plaintiff Lorie … [+7948 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "TheStranger.com"
+  },
+  "author": "Nathalie Graham",
+  "title": "Slog AM: Supreme Court Allows LGBTQ Discrimination and Kills Student Debt Relief, Meanwhile Seattle Cracks Down on Dogs on Ballfields",
+  "description": "The Stranger's morning news roundup.\n \n by Nathalie Graham\n \n \n \n Happy last day of Pride month, the Supreme Court hates you: In a 6-3 ruling, the Supreme Court sided with the homophobic Colorado website designer in the 303 Creative v. Elenis case. Plaintiff …",
+  "url": "https://www.thestranger.com/slog-am/2023/06/30/79058237/slog-am-supreme-court-allows-lgbtq-discrimination-and-kills-student-debt-relief-meanwhile-seattle-cracks-down-on-dogs-on-ballfields",
+  "urlToImage": "https://media2.fdncms.com/stranger/imager/u/large/79058346/gettyimages-1409557303.jpg",
+  "publishedAt": "2023-06-30T15:30:00Z",
+  "content": "Happy last day of Pride month, the Supreme Court hates you: In a 6-3 ruling, the Supreme Court sided with the homophobic Colorado website designer in the 303 Creative v. Elenis case. Plaintiff Lorie … [+7948 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Tim De Chant",
+  "title": "Why automakers are rushing to adopt Tesla’s NACS plug and what it means to drivers",
+  "description": "The war isn’t over yet, but with Electrify America announcing this week that it would add Tesla’s plugs, it’s close.",
+  "url": "https://techcrunch.com/2023/06/30/electrify-america-nacs/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/0x0-ChargePort_04.jpg?resize=1200,801",
+  "publishedAt": "2023-06-30T15:26:03Z",
+  "content": "How did the North American electric vehicle market finally decide on a charging port?\r\nGradually, then suddenly, to paraphrase Ernest Hemingway.\r\nThe war isnt over yet, but with Electrify America ann… [+2346 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MarketWatch"
+  },
+  "author": "Joy Wiltermuth",
+  "title": ": Do Not Disturb: Tenants brace for more office landlords to go belly up on their property debts",
+  "description": "U.S. office tenants increasingly want leases that provide protections against landlords who default, which can throw a property into foreclosure.",
+  "url": "https://www.marketwatch.com/story/do-not-disturb-tenants-brace-for-more-office-landlords-to-go-belly-up-on-their-property-debts-df84bb31",
+  "urlToImage": "https://images.mktw.net/im-809310/social",
+  "publishedAt": "2023-06-30T15:25:56Z",
+  "content": "It used to be that building owners worried about tenants not paying rent.But as U.S. landlords struggle to fill half-empty offices, tenants increasingly have been asking for safeguards in case a prop… [+5350 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The Guardian"
+  },
+  "author": "Reuters",
+  "title": "Apple’s market value breaches $3tn mark for first time since January 2022",
+  "description": "Shares of Apple, which is also the world’s most valuable-listed company, were up 1.3% at $191.99 in morning tradingApple market capitalization on Friday breached the $3tn mark for the first time since January last year, as investors bet on the iPhone maker’s …",
+  "url": "https://www.theguardian.com/technology/2023/jun/30/apple-stock-tech-market-price-value-3-trillion",
+  "urlToImage": "https://i.guim.co.uk/img/media/e2d0af3c6bee8d728093d732c4889e07941578ba/0_6_5471_3285/master/5471.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1930372fcbbd714dcbf60b73ce62e934",
+  "publishedAt": "2023-06-30T15:20:55Z",
+  "content": "Apple market capitalization on Friday breached the $3tn mark for the first time since January last year, as investors bet on the iPhone makers ability to grow its revenue even as it explores new mark… [+1077 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "entrepreneur.com",
+  "title": "4 Simple Ways Businesses Can Drive Lasting Success",
+  "description": "The business world will only get harder, sharper and more competitive. The last thing we can afford to do is let inertia hold us back. Opinions expressed by Entrepreneur contributors are their own. Nothing can make a business more irrelevant than saying, \"Tha…",
+  "url": "https://biztoc.com/x/11458cbbc74f72b9",
+  "urlToImage": "https://c.biztoc.com/p/11458cbbc74f72b9/s.webp",
+  "publishedAt": "2023-06-30T15:20:07Z",
+  "content": "The business world will only get harder, sharper and more competitive. The last thing we can afford to do is let inertia hold us back.Opinions expressed by Entrepreneur contributors are their own.Not… [+303 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Forbes"
+  },
+  "author": "Q.ai - Powering a Personal Wealth Movement, Contributor, \n Q.ai - Powering a Personal Wealth Movement, Contributor\n https://www.forbes.com/sites/qai/",
+  "title": "Cruise Line Stocks Make Huge Gains As Demand Soars",
+  "description": "Carnival and Royal Caribbean have seen huge uplifts to their share prices in 2023 and have the earnings reports to back up the buoyancy.",
+  "url": "https://www.forbes.com/sites/qai/2023/06/30/cruise-line-stocks-make-huge-gains-as-demand-soars/",
+  "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/649ef1fdcc0ec4522e0b977b/0x0.jpg?format=jpg&width=1200",
+  "publishedAt": "2023-06-30T15:17:52Z",
+  "content": "(Photo by Joe Raedle/Getty Images)\r\nGetty Images\r\nKey takeaways\r\n<ul><li>Cruise liner companies Carnival and Royal Caribbean are two of the five biggest-gaining stocks on the S&amp;P 500 this year al… [+7195 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Ines Ferré",
+  "title": "XPeng stock pops after Chinese EV maker prices SUV below Tesla Model Y",
+  "description": "The move shows how the electric vehicle space in China is in the middle of a fierce pricing war.",
+  "url": "https://finance.yahoo.com/news/xpeng-stock-pops-after-chinese-ev-maker-prices-suv-below-tesla-model-y-151726425.html",
+  "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jGWNEwrm3HOM_b5BKFEBsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/ab4268c0-e82a-11ed-bffb-33696879e2bd",
+  "publishedAt": "2023-06-30T15:17:26Z",
+  "content": "XPeng (XPEV) stock rose as much as 13% on Friday after the Chinese EV maker launched its new mid-sized SUV at a sale price 20% lower than Tesla's Model Y.\r\nThe G6 vehicle starts at $28,950. Tesla's p… [+1832 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Reviewgeek.com"
+  },
+  "author": "Cory Gunther",
+  "title": "Introducing the Tesla Reacher, a Ridiculous UK Exclusive",
+  "description": "Customers buying an all-new Tesla Model S or Model X in the UK are finding an interesting yet ridiculous gift inside their vehicles. Tesla’s new accessory, “The Reacher,” helps those with a new left-handed car reach parking tickets and other things out the “p…",
+  "url": "https://www.reviewgeek.com/158156/introducing-the-tesla-reacher-a-ridiculous-uk-exclusive/",
+  "urlToImage": "https://www.reviewgeek.com/p/uploads/2023/06/24769650.jpg",
+  "publishedAt": "2023-06-30T15:09:03Z",
+  "content": "Twitter\r\nCustomers buying an all-new Tesla Model S or Model X in the UK are finding an interesting yet ridiculous gift inside their vehicles. Tesla’s new accessory, “The Reacher,” helps those with a … [+1680 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "cnbc.com",
+  "title": "It's not just Tesla and Rivian",
+  "description": "The auto industry isn't the only one going electric. In Home Depot and Lowe's , one of the buzziest aisles features battery-powered leaf blowers, mowers, string trimmers and more. Those electric-powered outdoor tools have started to take hold in neighborhoods…",
+  "url": "https://biztoc.com/x/d5db0317a200393a",
+  "urlToImage": "https://c.biztoc.com/p/d5db0317a200393a/s.webp",
+  "publishedAt": "2023-06-30T15:08:04Z",
+  "content": "The auto industry isn't the only one going electric. In Home Depot and Lowe's , one of the buzziest aisles features battery-powered leaf blowers, mowers, string trimmers and more. Those electric-powe… [+294 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MarketWatch"
+  },
+  "author": "Philip van Doorn",
+  "title": ": How long can Nvidia’s growth support is high stock price?",
+  "description": "Also, Apple's next milestone, housing news, stock picks and a fascinating IPO market.",
+  "url": "https://www.marketwatch.com/story/how-long-can-nvidias-growth-support-is-high-stock-price-237a42e9",
+  "urlToImage": "https://images.mktw.net/im-803028/social",
+  "publishedAt": "2023-06-30T15:06:38Z",
+  "content": "Nvidia Corp. \r\n NVDA,\r\n +3.83%\r\nhas been the best-performing stock of 2023, rising 179% through June 29. This performance has been based on investors expectation that the company can continue growing… [+5001 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Stereogum"
+  },
+  "author": "Wyatt Marshall",
+  "title": "Fiadh Means Many Things",
+  "description": "Inevitable, the debut album from Summer Haze ’99, begins with a simple nostalgic piano melody, a careful, cautiously hopeful innocence echoing from a distant memory. Lightly touched keys are soon joined by sparse drumming that reverberates in the silence of a…",
+  "url": "https://www.stereogum.com/2228636/fiadh-means-many-things/columns/the-black-market/",
+  "urlToImage": "https://static.stereogum.com/uploads/2023/06/0028533409_10-1687964641.jpeg",
+  "publishedAt": "2023-06-30T15:05:49Z",
+  "content": "Inevitable, the debut album from Summer Haze ’99, begins with a simple nostalgic piano melody, a careful, cautiously hopeful innocence echoing from a distant memory. Lightly touched keys are soon joi… [+40867 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "finance.yahoo.com",
+  "title": "Tesla Closes In on Another Deliveries Record After Price Cuts",
+  "description": "Tesla Inc. shares have soared 109% this year. In the coming days, one number will be much more important to investors: How many cars did the company deliver in the latest quarter? • None Trump ‘Standing Order’ to Declassify Not Found by DOJ, Intelligence Agen…",
+  "url": "https://biztoc.com/x/ed93769e3920fb56",
+  "urlToImage": "https://c.biztoc.com/p/ed93769e3920fb56/s.webp",
+  "publishedAt": "2023-06-30T14:58:06Z",
+  "content": "Tesla Inc. shares have soared 109% this year. In the coming days, one number will be much more important to investors: How many cars did the company deliver in the latest quarter?None Trump Standing … [+297 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "barrons.com",
+  "title": "XPeng Launches Cheaper Rival to Tesla Model Y. Both Stocks Are Gaining",
+  "description": "The chess game of electric vehicles is continuing. In its latest move, the Chinese EV-maker XPeng is offering a car with a far lower price than a comparable Tesla vehicle.#xpeng #tesla",
+  "url": "https://biztoc.com/x/88d02268277f4bfa",
+  "urlToImage": "https://c.biztoc.com/p/88d02268277f4bfa/s.webp",
+  "publishedAt": "2023-06-30T14:55:42Z",
+  "content": "The chess game of electric vehicles is continuing. In its latest move, the Chinese EV-maker XPeng is offering a car with a far lower price than a comparable Tesla vehicle.\r\n#xpeng#tesla\r\nThis story a… [+24 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Barron's"
+  },
+  "author": "Emily Dattilo",
+  "title": "XPeng Launches Cheaper Rival to Tesla Model Y. Both Stocks Are Gaining.",
+  "description": "The Chinese EV-maker's new product offers \"the industry's only mass-produced full-scenario\" advanced driver assistance system.",
+  "url": "https://www.barrons.com/articles/xpeng-cheaper-tesla-model-y-stocks-34ece3ef",
+  "urlToImage": "https://images.barrons.com/im-810004/social",
+  "publishedAt": "2023-06-30T14:52:13Z",
+  "content": "The chess game of electric vehicles is continuing. In its latest move, the Chinese EV-maker \r\n XPeng\r\n is offering a car with a far lower price than a comparable Tesla vehicle. XPeng (ticker: XPEV) o… [+1477 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "247wallst.com",
+  "title": "Americas Best And Worst New Cars",
+  "description": "It is hard to come up with a more frustrating consumer experience than experiencing quality issues with your brand-new car – or truck or SUV – within weeks of driving it off the dealer’s lot. Whether you buy your new set of wheels with cash upfront or using f…",
+  "url": "https://biztoc.com/x/2765628b35e4c763",
+  "urlToImage": "https://c.biztoc.com/p/2765628b35e4c763/s.webp",
+  "publishedAt": "2023-06-30T14:46:05Z",
+  "content": "It is hard to come up with a more frustrating consumer experience than experiencing quality issues with your brand-new car or truck or SUV within weeks of driving it off the dealers lot. Whether you … [+287 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNBC"
+  },
+  "author": "Melissa Repko",
+  "title": "It's not just Tesla and Rivian — electric batteries are also shaking up the landscaping aisle",
+  "description": "Home Depot and Lowe's are trying to capitalize on more consumers switching to battery-powered tools for landscaping lawns, golf courses and parks.",
+  "url": "https://www.cnbc.com/2023/06/30/home-depot-lowes-bank-on-electric-power-tools-and-landscaping-equipment.html",
+  "urlToImage": "https://image.cnbcfm.com/api/v1/image/107264584-1688042194251-image001.jpg?v=1688136117&w=1920&h=1080",
+  "publishedAt": "2023-06-30T14:41:57Z",
+  "content": "Some landscaping crews have begun to use battery-powered tools. California-based Everthrive Landscape is one of the companies that's switched to the equipment.\r\nThe auto industry isn't the only one g… [+9881 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "investorplace.com",
+  "title": "XPEV Stock Alert: Xpeng’s SUV Pricing Beats Out Tesla’s Model Y",
+  "description": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Xpeng (XPEV) stock is rallying higher on Friday after the electric vehicle (EV) company priced its G6 SUV below Tesla's (TSLA) Model Y. The post XPEV Stock Alert: Xpeng’s SUV Pricing Beats Out Tes…",
+  "url": "https://biztoc.com/x/8a1be9122e2a9e04",
+  "urlToImage": "https://c.biztoc.com/p/8a1be9122e2a9e04/s.webp",
+  "publishedAt": "2023-06-30T14:39:47Z",
+  "content": "InvestorPlace - Stock Market News, Stock Advice &amp; Trading TipsXpeng (XPEV) stock is rallying higher on Friday after the electric vehicle (EV) company priced its G6 SUV below Tesla's (TSLA) Model … [+232 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Poynter"
+  },
+  "author": "Poynter Staff",
+  "title": "Banning Donald Trump and meeting Elon Musk: Former Twitter safety chief gives inside account",
+  "description": "Uncharted territory.  Again and again, as Yoel Roth, Twitter’s former head of trust and safety, talks about his work at the social media platform, both before and after Elon Musk […]\nThe post Banning Donald Trump and meeting Elon Musk: Former Twitter safety c…",
+  "url": "https://www.poynter.org/fact-checking/2023/banning-donald-trump-and-meeting-elon-musk-former-twitter-safety-chief-gives-inside-account-yoel-roth/",
+  "urlToImage": "https://www.poynter.org/wp-content/uploads/2023/06/YoelRoth2.jpg",
+  "publishedAt": "2023-06-30T14:36:54Z",
+  "content": "SEOUL, South Korea Uncharted territory. \r\nAgain and again, as Yoel Roth, Twitters former head of trust and safety, talks about his work at the social media platform, both before and after Elon Musk a… [+37876 chars]"
+  },
+  {
+  "source": {
+  "id": "google-news",
+  "name": "Google News"
+  },
+  "author": null,
+  "title": "Stocks rise as strong first half set to close: Stock market news today - Yahoo Canada Finance",
+  "description": "<ol><li>Stocks rise as strong first half set to close: Stock market news today  Yahoo Canada Finance\r\n</li><li>NDX: Nasdaq Ekes Out Tiny 0.3% Advance on Apple, Tesla Gains  TradingView\r\n</li><li>Stock market today: Wall Street opens higher after inflation sho…",
+  "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vbmV3cy9zdG9jay1tYXJrZXQtbmV3cy1saXZlLXVwZGF0ZXMtdG9kYXktanVuZS0zMC0yMDIzLTEwNDAyNjQ4Ni5odG1s0gFqaHR0cHM6Ly9jYS5maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3Mvc3RvY2stbWFya2V0LW5ld3MtbGl2ZS11cGRhdGVzLXRvZGF5LWp1bmUtMzAtMjAyMy0xMDQwMjY0ODYuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+  "urlToImage": null,
+  "publishedAt": "2023-06-30T14:33:52Z",
+  "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Gadgets360.com"
+  },
+  "author": "Reuters",
+  "title": "Apple's Market Capitalisation Reaches $3 Trillion as Company Explores VR Sector",
+  "description": "Apple's market capitalization on Friday breached the $3 trillion (nearly Rs. 2,46,09,660 crore) mark for the first time since January last year, as investors bet on the iPhone maker's ability to grow its revenue even as it explores new markets such as virtual…",
+  "url": "https://www.gadgets360.com/mobiles/news/apple-market-value-breaches-usd-3-trillion-company-explores-virtual-reality-vision-pro-4166939",
+  "urlToImage": "https://i.gadgets360cdn.com/large/apple_reuters_1684309211854.jpg",
+  "publishedAt": "2023-06-30T14:33:01Z",
+  "content": "Apple's market capitalization on Friday breached the $3 trillion (nearly Rs. 2,46,09,660 crore) mark for the first time since January last year, as investors bet on the iPhone maker's ability to grow… [+2144 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ozbargain.com.au"
+  },
+  "author": "scons",
+  "title": "Sign up & Fund A$300 or More & 1 Buy Trade, Get 6 Free Fractional Shares Each Worth US$4-US$200 @ Webull",
+  "description": "You Need To Sign Up Using Any Referral Link, A Random One Can Be Selected From The Bottom Of This Post\n\nalso, any previous sign ups cannot take advantage of this offer again.\n\nOpen a Webull individual account using a referral link below. Make a deposit in AUD…",
+  "url": "https://www.ozbargain.com.au/node/784998",
+  "urlToImage": "https://files.ozbargain.com.au/n/98/784998x.jpg?h=f48adfe7",
+  "publishedAt": "2023-06-30T14:32:04Z",
+  "content": "You Need To Sign Up Using Any Referral Link, A Random One Can Be Selected From The Bottom Of This Post\r\nalso, any previous sign ups cannot take advantage of this offer again.\r\nOpen a Webull individua… [+14273 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "24/7 Wall St."
+  },
+  "author": "247patrick",
+  "title": "Americas Best And Worst New Cars",
+  "description": "It is hard to come up with a more frustrating consumer experience than experiencing quality issues with your brand-new car – or truck or SUV – within weeks of driving it off the dealer’s lot. Whether you buy your new set of wheels with cash upfront or using f…",
+  "url": "https://247wallst.com/special-report/2023/06/30/americas-best-and-worst-new-cars-5/",
+  "urlToImage": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry31-uPM.jpg",
+  "publishedAt": "2023-06-30T14:25:47Z",
+  "content": "It is hard to come up with a more frustrating consumer experience than experiencing quality issues with your brand-new car – or truck or SUV – within weeks of driving it off the dealers lot. Whether … [+3513 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Yahoo Finance",
+  "title": "XPeng stock rises after unveiling SUV pricing competing with Tesla Model Y",
+  "description": "Chinese EV maker XPeng is seeing its shares move higher after unveiling new competitive pricing with Tesla's Model Y. Yahoo Finance Live takes a look at...",
+  "url": "https://finance.yahoo.com/video/xpeng-stock-rises-unveiling-suv-142250417.html",
+  "urlToImage": "https://s.yimg.com/ny/api/res/1.2/el1Yb2.EMUqz_ayzMsZMcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/a4c388f0-174e-11ee-b7de-d7d0d7f5326c",
+  "publishedAt": "2023-06-30T14:22:50Z",
+  "content": "<ul><li>\r\n</li><li>\r\n</li><li>\r\n</li></ul>\r\nChinese EV maker XPeng is seeing its shares move higher after unveiling new competitive pricing with Tesla's Model Y. Yahoo Finance Live takes a look at XP… [+72 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "businessinsider.com",
+  "title": "Tesla vs Rivian: How the fresh EV startup compares to the electric-car giant",
+  "description": "The three-row Rivian R1S competes with Tesla's Model X SUV. Tim Levin/Insider Tesla is facing competition from new and exciting startups. Rivian is one of the most successful electric-vehicle startups in the US. The Tesla Model X and upcoming Cybertruck picku…",
+  "url": "https://biztoc.com/x/0224de7b6ce822f6",
+  "urlToImage": "https://c.biztoc.com/p/0224de7b6ce822f6/s.webp",
+  "publishedAt": "2023-06-30T14:22:06Z",
+  "content": "The three-row Rivian R1S competes with Tesla's Model X SUV.Tim Levin/InsiderTesla is facing competition from new and exciting startups. Rivian is one of the most successful electric-vehicle startups … [+291 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AutoExpress"
+  },
+  "author": "Steve Fowler",
+  "title": "Lucid plans Tesla Model 3 and Model Y rivals next: exclusive CEO interview",
+  "description": "Lucid boss Peter Rawlinson reveals plans for four car range and car sales in the UK, while explaining the deal with Aston Martin",
+  "url": "https://www.autoexpress.co.uk/lucid/360558/lucid-plans-tesla-model-3-and-model-y-rivals-next-exclusive-ceo-interview",
+  "urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1688135204/autoexpress/2023/06/Lucid Peter Rawlinson-2.jpg",
+  "publishedAt": "2023-06-30T14:15:34Z",
+  "content": "Lucid boss Peter Rawlinson is a happy man. Hes just pulled off a major coup with his companys supply deal with Aston Martin, Lucids first car the Lucid Air has been named World Car Luxury Car of the … [+5935 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "PR Newswire UK"
+  },
+  "author": null,
+  "title": "Autonomous Navigation Market worth $12.9 billion by 2028 - Exclusive Report by MarketsandMarkets™",
+  "description": "CHICAGO, June 30, 2023 /PRNewswire/ -- The Autonomous navigation market is estimated to be USD 6.0 billion in 2023 and is projected to reach USD 12.9 billion by 2028, at a CAGR of 16.4% during the forecast period according to a new report by MarketsandMarkets…",
+  "url": "https://www.prnewswire.co.uk/news-releases/autonomous-navigation-market-worth-12-9-billion-by-2028---exclusive-report-by-marketsandmarkets-301867843.html",
+  "urlToImage": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+  "publishedAt": "2023-06-30T14:15:00Z",
+  "content": "CHICAGO, June 30, 2023 /PRNewswire/ -- The Autonomous navigation market is estimated to be USD 6.0 billion in 2023 and is projected to reach USD 12.9 billion by 2028, at a CAGR of 16.4% during the fo… [+7518 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "PRNewswire"
+  },
+  "author": null,
+  "title": "Autonomous Navigation Market worth $12.9 billion by 2028 - Exclusive Report by MarketsandMarkets™",
+  "description": "CHICAGO, June 30, 2023 /PRNewswire/ -- The Autonomous navigation market is estimated to be USD 6.0 billion in 2023 and is projected to reach USD 12.9 billion by 2028, at a CAGR of 16.4% during the forecast period according to a new report by MarketsandMarkets…",
+  "url": "https://www.prnewswire.com/news-releases/autonomous-navigation-market-worth-12-9-billion-by-2028---exclusive-report-by-marketsandmarkets-301867824.html",
+  "urlToImage": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+  "publishedAt": "2023-06-30T14:15:00Z",
+  "content": "CHICAGO, June 30, 2023 /PRNewswire/ -- The Autonomous navigation market is estimated to be USD 6.0 billion in 2023 and is projected to reach USD 12.9 billion by 2028, at a CAGR of 16.4% during the fo… [+7507 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Jalopnik"
+  },
+  "author": "Erin Marquis",
+  "title": "Cops Are Already Treating Self-Driving Cars As 'Surveillance Cameras On Wheels'",
+  "description": "No matter how frustrating or dangerous self-driving taxis continue to be, companies are currently expanding their use in cities like San Francisco, Los Angeles, Phoenix, and Vegas. Police, meanwhile, are taking advantage of the self-driving taxi proliferation…",
+  "url": "https://jalopnik.com/cops-are-already-treating-self-driving-cars-as-surveill-1850595009",
+  "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9b884f51584017452a8ed4caa4b0ea9f.jpg",
+  "publishedAt": "2023-06-30T14:15:00Z",
+  "content": "No matter how frustrating or dangerous self-driving taxis continue to be, companies are currently expanding their use in cities like San Francisco, Los Angeles, Phoenix, and Vegas. Police, meanwhile,… [+2467 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MakeUseOf"
+  },
+  "author": "Razvan Mihaila",
+  "title": "What Is Turtle Mode in Electric Vehicles",
+  "description": "Turtle Mode is a generic name for the mode that your EV slips into when you're driving it with its battery almost depleted.",
+  "url": "https://www.makeuseof.com/electric-vehicles-turtle-mode/",
+  "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/a-Kia-EV6-driving-downhill-along-the-beach-while-using-single-pedal-driving.jpg",
+  "publishedAt": "2023-06-30T14:10:18Z",
+  "content": "Have you noticed a small turtle symbol start flashing on your electric vehicle's dashboard when you're driving it with its battery almost depleted? That’s how your car notifies you that it entered Tu… [+2750 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "PCMag.com"
+  },
+  "author": "Emily Dreibelbis",
+  "title": "Nearly Half of Americans Are Ready to Ditch Fully Gas-Powered Cars",
+  "description": "According to a new survey by Ernst & Young, 48% of new car buyers say they plan to get a hybrid, plug-in hybrid, or full EV—but an unexpected adoption barrier has emerged.\nThe electric vehicle revolution is accelerating, with more Americans than ever looking …",
+  "url": "https://uk.pcmag.com/cars-auto/147573/nearly-half-of-americans-are-ready-to-ditch-fully-gas-powered-cars",
+  "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/n/nearly-hal/nearly-half-of-americans-are-ready-to-ditch-fully-gas-powere_qa9a.1200.jpg",
+  "publishedAt": "2023-06-30T14:07:30Z",
+  "content": "The electric vehicle revolution is accelerating, with more Americans than ever looking to move away from fully gas-powered cars, a new study finds.\r\nErnst &amp; Young (EY) surveyed 15,000 consumers i… [+3419 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "PCMag.com"
+  },
+  "author": "Emily Dreibelbis",
+  "title": "Nearly Half of Americans Are Ready to Ditch Fully Gas-Powered Cars",
+  "description": "According to a new survey by Ernst & Young, 48% of new car buyers say they plan to get a hybrid, plug-in hybrid, or full EV—but an unexpected adoption barrier has emerged.\nThe electric vehicle revolution is accelerating, with more Americans than ever looking …",
+  "url": "https://me.pcmag.com/en/cars-auto/17898/nearly-half-of-americans-are-ready-to-ditch-fully-gas-powered-cars",
+  "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/n/nearly-hal/nearly-half-of-americans-are-ready-to-ditch-fully-gas-powere_9cck.1200.jpg",
+  "publishedAt": "2023-06-30T14:07:30Z",
+  "content": "The electric vehicle revolution is accelerating, with more Americans than ever looking to move away from fully gas-powered cars, a new study finds.\r\nErnst &amp; Young (EY) surveyed 15,000 consumers i… [+3419 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "finance.yahoo.com",
+  "title": "Tesla set to report record quarterly vehicle deliveries, fueled by incentives",
+  "description": "Tesla is set to report record vehicle deliveries, after the top electric vehicle maker increased discounts and other incentives to boost sales in the face of economic uncertainty and rising competition. Tesla is expected as early as this weekend to report glo…",
+  "url": "https://biztoc.com/x/bc6780dc992629f8",
+  "urlToImage": "https://c.biztoc.com/p/bc6780dc992629f8/og.webp",
+  "publishedAt": "2023-06-30T14:04:07Z",
+  "content": "Tesla is set to report record vehicle deliveries, after the top electric vehicle maker increased discounts and other incentives to boost sales in the face of economic uncertainty and rising competiti… [+315 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Anusuya Lahiri",
+  "title": "Volkswagen May Join Other Players - It's In Talks with Tesla to Adopt North American Charging Standard",
+  "description": "Volkswagen AG (OTC: VWAGY) is in discussion with Tesla, Inc (NASDAQ: TSLA) to leverage its North American Charging Standard (NACS) technology. The German...",
+  "url": "https://finance.yahoo.com/news/volkswagen-may-join-other-players-140320917.html",
+  "urlToImage": "https://media.zenfs.com/en/Benzinga/f0f44cbac1075796fe41c17a72604378",
+  "publishedAt": "2023-06-30T14:03:20Z",
+  "content": "Volkswagen AG (OTC: VWAGY) is in discussion with Tesla, Inc (NASDAQ: TSLA) to leverage its North American Charging Standard (NACS) technology. The German automaker's charging network unit Electrify A… [+1558 chars]"
+  },
+  {
+  "source": {
+  "id": "business-insider",
+  "name": "Business Insider"
+  },
+  "author": "mfox@businessinsider.com (Matthew Fox)",
+  "title": "These were the top 10 performing stocks in the S&P 500 in the first half of 2023",
+  "description": "Stocks have surged this year as investors gain hope that inflation is easing and a potential recession is farther away than previously expected.",
+  "url": "https://markets.businessinsider.com/news/stocks/top-10-performing-stocks-sp500-first-half-of-the-year-2023-6",
+  "urlToImage": "https://i.insider.com/649ed13bfd8a3e00191213a9?width=1200&format=jpeg",
+  "publishedAt": "2023-06-30T14:01:55Z",
+  "content": "With the first half of the year in the books, investors have a lot to reflect on after the S&amp;P 500 exited its 2022 bear market and entered a new bull market.\r\nStocks have surged as investors gain… [+1603 chars]"
+  },
+  {
+  "source": {
+  "id": "google-news",
+  "name": "Google News"
+  },
+  "author": null,
+  "title": "Tesla Closes In on Another Deliveries Record After Price Cuts - Yahoo Finance",
+  "description": "<ol><li>Tesla Closes In on Another Deliveries Record After Price Cuts  Yahoo Finance\r\n</li><li>The next catalyst for Tesla's stock is around the corner  MarketWatch\r\n</li><li>Tesla set to report record quarterly vehicle deliveries, fueled by incentives  Yahoo…",
+  "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90ZXNsYS1jbG9zZXMtYW5vdGhlci1kZWxpdmVyaWVzLXJlY29yZC0xNDAwMDA4MzMuaHRtbNIBXGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL3Rlc2xhLWNsb3Nlcy1hbm90aGVyLWRlbGl2ZXJpZXMtcmVjb3JkLTE0MDAwMDgzMy5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+  "urlToImage": null,
+  "publishedAt": "2023-06-30T14:00:00Z",
+  "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Dana Hull",
+  "title": "Tesla Closes In on Another Deliveries Record After Price Cuts",
+  "description": "(Bloomberg) -- Tesla Inc. shares have soared 109% this year. In the coming days, one number will be much more important to investors: How many cars did the...",
+  "url": "https://finance.yahoo.com/news/tesla-closes-another-deliveries-record-140000833.html",
+  "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9d9GmlCr8EYmoOcG_h54Ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjI-/https://media.zenfs.com/en/bloomberg_markets_842/672d2add9618c9ed74103fd20b9b2150",
+  "publishedAt": "2023-06-30T14:00:00Z",
+  "content": "(Bloomberg) -- Tesla Inc. shares have soared 109% this year. In the coming days, one number will be much more important to investors: How many cars did the company deliver in the latest quarter?\r\nMos… [+3525 chars]"
+  },
+  {
+  "source": {
+  "id": "google-news",
+  "name": "Google News"
+  },
+  "author": null,
+  "title": "Tesla (TSLA) Deliveries 2023: Quarterly Record Expected After ... - Bloomberg",
+  "description": "Tesla (TSLA) Deliveries 2023: Quarterly Record Expected After ...  Bloomberg",
+  "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTA2LTMwL3Rlc2xhLWRlbGl2ZXJpZXMtMjAyMy1xdWFydGVybHktcmVjb3JkLWV4cGVjdGVkLWFmdGVyLXByaWNlLWN1dHPSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+  "urlToImage": null,
+  "publishedAt": "2023-06-30T14:00:00Z",
+  "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "BroBible"
+  },
+  "author": "Connor Toole",
+  "title": "Could Elon Musk And Mark Zuckerberg Fight In The Colosseum? Italy Reportedly Wants It To Happen",
+  "description": "It’s kind of hard to believe we once lived in a world where people routinely fought to the death for the entertainment of the masses, but that particular spectacle was one of the primary attractions at the Colosseum in Rome. That historic venue was harnessed …",
+  "url": "https://brobible.com/culture/article/elon-musk-mark-zuckerberg-fight-colosseum-proposal/",
+  "urlToImage": "https://brobible.com/wp-content/uploads/2023/06/the-Coliseum.jpg",
+  "publishedAt": "2023-06-30T13:56:53Z",
+  "content": "Getty Image\r\nIt’s kind of hard to believe we once lived in a world where people routinely fought to the death for the entertainment of the masses, but that particular spectacle was one of the primary… [+1950 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "forbes.com",
+  "title": "Apple Hits $3 Trillion Market Value",
+  "description": "Apple’s market capitalization soared past $3 trillion Friday, a historic milestone as the world’s largest company continues to grow larger thanks to resilient profits and product sales. Shares of the iPhone maker jumped more than 1% to a fresh all-time high o…",
+  "url": "https://biztoc.com/x/e288b7535c2d03e4",
+  "urlToImage": "https://c.biztoc.com/p/e288b7535c2d03e4/s.webp",
+  "publishedAt": "2023-06-30T13:56:06Z",
+  "content": "Apples market capitalization soared past $3 trillion Friday, a historic milestone as the worlds largest company continues to grow larger thanks to resilient profits and product sales.Shares of the iP… [+277 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Notebookcheck.net"
+  },
+  "author": "Daniel Zlatev",
+  "title": "Tesla's EV chargers have the most uptime as VW looks to adopt its NACS port and connector",
+  "description": "Volkswagen is getting ready to budge and adopt the Tesla NACS port and connector for its EV charging needs, while its Electrify America network already did. VW will join the likes of GM, Ford, Volvo, Rivian, and Polestar. Adopting the Tesla Supercharger netwo…",
+  "url": "https://www.notebookcheck.net/Tesla-s-EV-chargers-have-the-most-uptime-as-VW-looks-to-adopt-its-NACS-port-and-connector.729389.0.html",
+  "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Tesla_Supercharger_VW_charging967422.jpg",
+  "publishedAt": "2023-06-30T13:54:00Z",
+  "content": "According to a new J.D. Power study, Tesla offers electric vehicle owners the most reliable charging network with five times less downtime than non-Tesla chargers. In the first quarter of the year, j… [+2023 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "thestreet.com",
+  "title": "Elon Musk Invites the World to Italy",
+  "description": "Two billionaires will transform into gladiators for the duration of a fight, which will undoubtedly hold the attention of the world. Elon Musk, the world's richest man, and Mark Zuckerberg, the tenth richest man in the world, are about to settle their differe…",
+  "url": "https://biztoc.com/x/2e75ae10798c4542",
+  "urlToImage": "https://c.biztoc.com/p/2e75ae10798c4542/s.webp",
+  "publishedAt": "2023-06-30T13:52:05Z",
+  "content": "Two billionaires will transform into gladiators for the duration of a fight, which will undoubtedly hold the attention of the world. Elon Musk, the world's richest man, and Mark Zuckerberg, the tenth… [+286 chars]"
+  },
+  {
+  "source": {
+  "id": "the-times-of-india",
+  "name": "The Times of India"
+  },
+  "author": "Reuters",
+  "title": "Apple's market value breaches $3 trillion mark again",
+  "description": "Apple's market value briefly peaked above $3 trillion in intra-day trading on Jan. 3, 2022, before closing the session just below that mark.",
+  "url": "https://economictimes.indiatimes.com/tech/technology/apples-market-value-breaches-3-trillion-mark-again/articleshow/101399473.cms",
+  "urlToImage": "https://img.etimg.com/thumb/msid-101399488,width-1070,height-580,imgsize-37910,overlay-ettech/photo.jpg",
+  "publishedAt": "2023-06-30T13:51:04Z",
+  "content": "Apple Inc's market capitalization on Friday breached the $3 trillion mark for the first time since January last year, as investors bet on the iPhone maker's ability to grow its revenue even as it exp… [+1200 chars]"
+  },
+  {
+  "source": {
+  "id": "the-times-of-india",
+  "name": "The Times of India"
+  },
+  "author": "PTI",
+  "title": "Imbalance in brain chemicals may be the culprit behind OCD: Study",
+  "description": "Some people with OCD are engaged in rituals for much of their waking life and cannot even leave their homes. As the condition is difficult to treat, life with OCD can be extremely difficult.",
+  "url": "https://economictimes.indiatimes.com/magazines/panache/imbalance-in-brain-chemicals-may-be-the-culprit-behind-ocd-study/articleshow/101399428.cms",
+  "urlToImage": "https://img.etimg.com/thumb/msid-101400282,width-1070,height-580,imgsize-180392,overlay-etpanache/photo.jpg",
+  "publishedAt": "2023-06-30T13:48:11Z",
+  "content": "People often jokingly say they've \"got a bit of OCD\" (obsessive-compulsive disorder) if they are overly organised or tidy. But OCD is actually a severe and disabling disorder characterised by obsessi… [+5517 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Motley Fool"
+  },
+  "author": "newsfeedback@fool.com (Dan Caplinger)",
+  "title": "Nike Is Falling, but This EV Challenger Is Giving Tesla a Run for Its Money",
+  "description": "A bullish mood prevailed on Wall Street despite disappointment from the athletic footwear pioneer.",
+  "url": "https://www.fool.com/investing/2023/06/30/nike-is-falling-but-this-ev-challenger-is-giving-t/",
+  "urlToImage": "https://g.foolcdn.com/editorial/images/738182/athletes-getty.jpg",
+  "publishedAt": "2023-06-30T13:47:13Z",
+  "content": "Wall Street appeared ready to end the first half of 2023 on a high note. Stock indexes climbed just after the opening bell Friday morning, as the Nasdaq led the way with a move higher of more than 1%… [+3171 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Investing.com"
+  },
+  "author": "Reuters",
+  "title": "Apple's market value breaches $3 trillion mark again",
+  "description": "Apple's market value breaches $3 trillion mark again",
+  "url": "https://www.investing.com/news/stock-market-news/apples-market-value-breaches-3-trillion-mark-again-3117760",
+  "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA6L00R_L.jpg",
+  "publishedAt": "2023-06-30T13:36:15Z",
+  "content": "(Reuters) - Apple Inc's market capitalization on Friday breached the $3 trillion mark for the first time since January last year, as investors bet on the iPhone maker's ability to grow its revenue ev… [+1204 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Slashdot.org"
+  },
+  "author": "feedfeeder",
+  "title": "Dow Jones Futures Rally On Cool Fed Inflation Data; Nike Stock Slides On Earnings Miss - Investor's Business Daily",
+  "description": "Dow Jones Futures Rally On Cool Fed Inflation Data; Nike Stock Slides On Earnings MissInvestor's Business Daily Dow leads stocks up after latest signs of economy's strength: Stock market news todayYahoo Finance NDX: Nasdaq Ekes Out Tiny 0.3% Advance on Apple,…",
+  "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171278786",
+  "urlToImage": null,
+  "publishedAt": "2023-06-30T13:35:11Z",
+  "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "NDTV News"
+  },
+  "author": null,
+  "title": "Apple's Market Value Breaches $3 Trillion Mark Again",
+  "description": "Apple Inc's market capitalization on Friday breached the $3 trillion mark for the first time since January last year, as investors bet on the iPhone maker's ability to grow its revenue even as it explores new markets such as virtual reality.",
+  "url": "https://www.ndtv.com/world-news/apples-market-value-breaches-3-trillion-mark-again-4166713",
+  "urlToImage": "https://c.ndtvimg.com/2023-06/l71dot9k_apple-reuters_625x300_30_June_23.jpg",
+  "publishedAt": "2023-06-30T13:34:36Z",
+  "content": "Apple's market value briefly peaked above $3 trillion in intra-day trading.\r\nApple Inc's market capitalization on Friday breached the $3 trillion mark for the first time since January last year, as i… [+1286 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Reuters",
+  "title": "Apple's market value breaches $3 trillion mark again",
+  "description": "Shares of Apple, which is also the world's most valuable- listed company, were up 1.3% at $191.99 in morning trading.  Apple's market value briefly peaked...",
+  "url": "https://finance.yahoo.com/news/apples-market-value-breaches-3-133401791.html",
+  "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/36a62b5b7e9a3175ba5d2f2d230d1244",
+  "publishedAt": "2023-06-30T13:34:01Z",
+  "content": "(Reuters) - Apple Inc's market capitalization on Friday breached the $3 trillion mark for the first time since January last year, as investors bet on the iPhone maker's ability to grow its revenue ev… [+1187 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Forbes"
+  },
+  "author": "Derek Saul, Forbes Staff, \n Derek Saul, Forbes Staff\n https://www.forbes.com/sites/dereksaul/",
+  "title": "Apple Hits $3 Trillion Market Value—And Could Soar Another $800 Billion",
+  "description": "The iPhone maker is as valuable as Tesla, Berkshire Hathaway, Meta and Netflix– combined.",
+  "url": "https://www.forbes.com/sites/dereksaul/2023/06/30/apple-hits-3-trillion-market-value-and-could-soar-another-800-billion/",
+  "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/649d804176d78f882c324236/0x0.jpg?format=jpg&crop=1842,1036,x0,y62,safe&width=1200",
+  "publishedAt": "2023-06-30T13:32:47Z",
+  "content": "Apples market capitalization soared past $3 trillion Friday, a historic milestone as the worlds largest company continues to grow larger thanks to resilient profits and product sales.\r\nApple is by fa… [+2687 chars]"
+  },
+  {
+  "source": {
+  "id": "business-insider",
+  "name": "Business Insider"
+  },
+  "author": "Tim Levin",
+  "title": "Tesla vs Rivian: How the fresh EV startup compares to the electric-car giant",
+  "description": "In the Tesla vs. Rivian debate, which electric car is better? Our in-depth guide covers pros and cons of each EV manufacturer.",
+  "url": "https://www.businessinsider.com/tesla-vs-rivian",
+  "urlToImage": "https://i.insider.com/62e14f30d571050018adbe3a?width=1200&format=jpeg",
+  "publishedAt": "2023-06-30T13:32:05Z",
+  "content": "The three-row Rivian R1S competes with Tesla's Model X SUV.Tim Levin/Insider\r\n<ul>\n<li>Tesla is facing competition from new and exciting startups. </li>\n<li>Rivian is one of the most successful elect… [+4381 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "finance.yahoo.com",
+  "title": "Chinese EV maker Xpeng's shares jump after pricing SUV below Tesla Model Y, lifts peers",
+  "description": "Electric-car maker Xpeng Inc priced its latest G6 sport utility vehicle about 20% lower than Tesla's Model Y in China, sending its U.S.-listed shares up 7.6% in premarket trading on Friday. U.S.-listed shares of its peers Li Auto and Nio also rose 0.3% and 2.…",
+  "url": "https://biztoc.com/x/4b2fe34d8da37475",
+  "urlToImage": "https://c.biztoc.com/p/4b2fe34d8da37475/s.webp",
+  "publishedAt": "2023-06-30T13:20:04Z",
+  "content": "Electric-car maker Xpeng Inc priced its latest G6 sport utility vehicle about 20% lower than Tesla's Model Y in China, sending its U.S.-listed shares up 7.6% in premarket trading on Friday.U.S.-liste… [+294 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Quartz India"
+  },
+  "author": "Nate DiCamillo",
+  "title": "Are you ready to have your identity tokenized?",
+  "description": "Since the emergence of stablecoins and non-fungible tokens (NFTs), tokenization technology has become an important part of the discussion about the future of payments.Read more...",
+  "url": "https://qz.com/are-you-ready-to-have-your-identity-tokenized-1850586162",
+  "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e3274f7e7f6acdf00f5495e2e4c436ca.jpg",
+  "publishedAt": "2023-06-30T13:20:00Z",
+  "content": "Since the emergence of stablecoins and non-fungible tokens (NFTs), tokenization technology has become an important part of the discussion about the future of payments.\r\nWhy tokenization? If a company… [+4229 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "theinformation.com",
+  "title": "Andreessen Horowitz’s AI Crusader",
+  "description": "“Will AI kill us all?” Andreessen Horowitz general partner Martin Casado asked his boss Marc Andreessen in early June. The bleary-eyed Casado had dialed in from a desk in a dimly lit hotel room in Washington, D.C., where he’d been meeting with regulators. His…",
+  "url": "https://biztoc.com/x/3a0669ea7babf0ed",
+  "urlToImage": "https://c.biztoc.com/p/3a0669ea7babf0ed/s.webp",
+  "publishedAt": "2023-06-30T13:06:31Z",
+  "content": "Will AI kill us all? Andreessen Horowitz general partner Martin Casado asked his boss Marc Andreessen in early June. The bleary-eyed Casado had dialed in from a desk in a dimly lit hotel room in Wash… [+313 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Marketscreener.com"
+  },
+  "author": "Business Wire",
+  "title": "Rivian Hires Sarah O'Brien as Chief Communications Officer",
+  "description": "(marketscreener.com) \nRivian Automotive, Inc. today announced it has hired Sarah O’Brien as its Chief Communications Officer. O’Brien is joining Rivian from Meta, where she spent more than four years as Vice President of Executive and Product Communications. …",
+  "url": "https://www.marketscreener.com/quote/stock/RIVIAN-AUTOMOTIVE-INC-129226108/news/Rivian-Hires-Sarah-O-Brien-as-Chief-Communications-Officer-44242273/",
+  "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+  "publishedAt": "2023-06-30T13:04:02Z",
+  "content": "Rivian Automotive, Inc. (NASDAQ: RIVN) today announced it has hired Sarah O’Brien as its Chief Communications Officer. O’Brien is joining Rivian from Meta, where she spent more than four years as Vic… [+2235 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The Information"
+  },
+  "author": "Kate Clark",
+  "title": "Andreessen Horowitz’s AI Crusader",
+  "description": "“Will AI kill us all?” Andreessen Horowitz general partner Martin Casado asked his boss Marc Andreessen in early June. The bleary-eyed Casado had dialed in from a desk in a dimly lit hotel room in Washington, D.C., where he’d been meeting with regulators. His…",
+  "url": "https://www.theinformation.com/articles/andreessen-horowitzs-ai-crusader",
+  "urlToImage": "https://tii.imgix.net/production/articles/10783/d545dd94-c6b3-47a7-a142-db43bed10bd6.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+  "publishedAt": "2023-06-30T13:00:22Z",
+  "content": "“Will AI kill us all?” Andreessen Horowitz general partner Martin Casado asked his boss Marc Andreessen in early June. The bleary-eyed Casado had dialed in from a desk in a dimly lit hotel room in Wa… [+695 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MarketWatch"
+  },
+  "author": "Philip van Doorn",
+  "title": "Deep Dive: These are the best-performing stocks in the 2023 bull market — and the worst",
+  "description": "The cruise operators Carnival and Royal Caribbean have claimed spots alongside Nvidia, Meta Platforms and Tesla in the S&P 500 ranking of top five performers so far this year.",
+  "url": "https://www.marketwatch.com/story/these-are-the-best-performing-stocks-in-the-2023-bull-market-and-the-worst-bc563861",
+  "urlToImage": "https://images.mktw.net/im-718877/social",
+  "publishedAt": "2023-06-30T12:53:18Z",
+  "content": "The S&amp;P 500 has risen 14.5% this year to 4,396.44, but were actually in a bull market, with a 23% gain from the 2022 closing low of 3,577.03 on Oct. 12. (One definition of a bull market is a 20% … [+19071 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "barrons.com",
+  "title": "Cathie Wood's ARK Sold More Tesla Stock, Buys AMD",
+  "description": "Cathie Wood’s ARK Invest continues to unload Tesla stock after the electric-vehicle pioneer’s significant rally this year. #cathiewoods #arkinvest #tesla",
+  "url": "https://biztoc.com/x/7e7d1adb0470981d",
+  "urlToImage": "https://c.biztoc.com/p/7e7d1adb0470981d/s.webp",
+  "publishedAt": "2023-06-30T12:52:09Z",
+  "content": "Cathie Woods ARK Invest continues to unload Tesla stock after the electric-vehicle pioneers significant rally this year.\r\n#cathiewoods#arkinvest#tesla\r\nThis story appeared on barrons.com, ."
+  },
+  {
+  "source": {
+  "id": "google-news",
+  "name": "Google News"
+  },
+  "author": null,
+  "title": "Dow Jones Futures Rally On Cool Fed Inflation Data; Nike Stock Slides On Earnings Miss - Investor's Business Daily",
+  "description": "<ol><li>Dow Jones Futures Rally On Cool Fed Inflation Data; Nike Stock Slides On Earnings Miss  Investor's Business Daily\r\n</li><li>Dow leads stocks up after latest signs of economy's strength: Stock market news today  Yahoo Finance\r\n</li><li>NDX: Nasdaq Ekes…",
+  "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbWFya2V0LXRyZW5kL3N0b2NrLW1hcmtldC10b2RheS9kb3ctam9uZXMtcmlzZXMta2V5LWZlZC1pbmZsYXRpb24tZGF0YS1uaWtlLXN0b2NrLXNsaWRlcy1vbi1lYXJuaW5ncy_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+  "urlToImage": null,
+  "publishedAt": "2023-06-30T12:40:00Z",
+  "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Forbes"
+  },
+  "author": "Danielle Chemtob, Forbes Staff, \n Danielle Chemtob, Forbes Staff\n https://www.forbes.com/sites/daniellechemtob/",
+  "title": "Forbes Daily: Supreme Court Axes Affirmative Action",
+  "description": "Wildfire smoke returns; More AI investment; DeSantis faces ethical questions; Federal marijuana legalization likely years away; Medical tech firm takes on Apple; and more",
+  "url": "https://www.forbes.com/sites/daniellechemtob/2023/06/30/forbes-daily-supreme-court-axes-affirmative-action/",
+  "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/649ecbb4cc0ec4522e0b96ed/0x0.jpg?format=jpg&crop=3103,1746,x0,y160,safe&width=1200",
+  "publishedAt": "2023-06-30T12:39:48Z",
+  "content": "This is a published version of the Forbes Daily newsletter, you can sign-up to get Forbes Daily in your inbox here.\r\nGood morning,\r\nWith a single ruling, the Supreme Court threw out what colleges and… [+10521 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "reuters.com",
+  "title": "Chinese EV maker Xpeng's shares jump after pricing SUV below Tesla Model Y, lifts peers",
+  "description": "Electric-car maker Xpeng Inc priced its latest G6 sport utility vehicle about 20% lower than Tesla's Model Y in China, sending its U.S.-listed shares up 7.6% in premarket trading on Friday.#xpenginc #g6 #tesla",
+  "url": "https://biztoc.com/x/b8cebcb541a233d1",
+  "urlToImage": "https://c.biztoc.com/p/b8cebcb541a233d1/s.webp",
+  "publishedAt": "2023-06-30T12:38:04Z",
+  "content": "Electric-car maker Xpeng Inc priced its latest G6 sport utility vehicle about 20% lower than Tesla's Model Y in China, sending its U.S.-listed shares up 7.6% in premarket trading on Friday.\r\n#xpengin… [+48 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Marketscreener.com"
+  },
+  "author": "GlobeNewswire",
+  "title": "Solar Integrated Roofing Corp. Provides Mid-Year Corporate Update Letter to Shareholders",
+  "description": "(marketscreener.com) HENDERSON, Nev., June 30, 2023 -- Solar Integrated Roofing Corp. , an integrated, single-source solutions provider of solar power, roofing and EV charging systems, provided a comprehensive mid-year corporate update letter to shareholders …",
+  "url": "https://www.marketscreener.com/quote/stock/SOLAR-INTEGRATED-ROOFING-120792435/news/Solar-Integrated-Roofing-Corp-Provides-Mid-Year-Corporate-Update-Letter-to-Shareholders-44241918/",
+  "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+  "publishedAt": "2023-06-30T12:32:01Z",
+  "content": "HENDERSON, Nev., June 30, 2023 (GLOBE NEWSWIRE) -- Solar Integrated Roofing Corp.\r\n (OTC:SIRC) (“SIRC” or the “Company”), an integrated, single-source solutions provider of solar power, roofing and E… [+10062 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Solar Integrated Roofing Corp.",
+  "title": "Solar Integrated Roofing Corp. Provides Mid-Year Corporate Update Letter to Shareholders",
+  "description": "HENDERSON, Nev., June 30, 2023 (GLOBE NEWSWIRE) -- Solar Integrated Roofing Corp.\r\n (OTC:SIRC) (“SIRC” or the “Company”), an integrated, single-source solutions provider of solar power, roofing and EV charging systems, provided a comprehensive mid-year corpor…",
+  "url": "https://www.globenewswire.com/news-release/2023/06/30/2697745/0/en/Solar-Integrated-Roofing-Corp-Provides-Mid-Year-Corporate-Update-Letter-to-Shareholders.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/4dc7faba-bcea-409f-a7a9-0c0f7c455997",
+  "publishedAt": "2023-06-30T12:31:00Z",
+  "content": "HENDERSON, Nev., June 30, 2023 (GLOBE NEWSWIRE) -- Solar Integrated Roofing Corp.\r\n (OTC:SIRC) (SIRC or the Company), an integrated, single-source solutions provider of solar power, roofing and EV ch… [+10012 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Investing.com"
+  },
+  "author": "Reuters",
+  "title": "Chinese EV maker Xpeng's shares jump after pricing SUV below Tesla Model Y, lifts peers",
+  "description": "Chinese EV maker Xpeng's shares jump after pricing SUV below Tesla Model Y, lifts peers",
+  "url": "https://www.investing.com/news/stock-market-news/chinese-ev-maker-xpengs-shares-jump-after-pricing-suv-below-tesla-model-y-lifts-peers-3117697",
+  "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC602U7_L.jpg",
+  "publishedAt": "2023-06-30T12:30:57Z",
+  "content": "(Reuters) - Electric-car maker Xpeng (NYSE:XPEV) Inc priced its latest G6 sport utility vehicle about 20% lower than Tesla (NASDAQ:TSLA)'s Model Y in China, sending its U.S.-listed shares up 7.6% in … [+1517 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Motor Authority"
+  },
+  "author": "news@motorauthority.com (Viknesh Vijayenthiran), Viknesh Vijayenthiran",
+  "title": "Polestar and Electrify America to adopt Tesla's NACS, VW Group may follow",
+  "description": "More and more companies are signing up to use Tesla's propriety charging connector, known as the North American Charging Standard (NACS). The latest are Polestar and Electrify America. Polestar's announcement, made on Thursday, isn't a surprise as sister bran…",
+  "url": "https://www.motorauthority.com/news/1140083_polestar-and-electrify-america-to-adopt-tesla-s-nacs-vw-group-may-follow",
+  "urlToImage": "https://images.hgmsites.net/hug/future-polestar-ev-lineup_100890047_h.jpg",
+  "publishedAt": "2023-06-30T12:30:00Z",
+  "content": "More and more companies are signing up to use Tesla's propriety charging connector, known as the North American Charging Standard (NACS). The latest are Polestar and Electrify America.\r\nPolestar's an… [+1819 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNA"
+  },
+  "author": null,
+  "title": "Chinese EV maker Xpeng's shares jump after pricing SUV below Tesla Model Y, lifts peers",
+  "description": "Electric-car maker Xpeng Inc priced its latest G6 sport utility vehicle about 20 per cent lower than Tesla's Model Y in China, sending its U.S.-listed shares up 7.6 per cent in premarket trading on Friday. U.S.-listed shares of its peers Li Auto and Nio also …",
+  "url": "https://www.channelnewsasia.com/business/chinese-ev-maker-xpengs-shares-jump-after-pricing-suv-below-tesla-model-y-lifts-peers-3597936",
+  "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z",
+  "publishedAt": "2023-06-30T12:28:42Z",
+  "content": "Electric-car maker Xpeng Inc priced its latest G6 sport utility vehicle about 20 per cent lower than Tesla's Model Y in China, sending its U.S.-listed shares up 7.6 per cent in premarket trading on F… [+1504 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNA"
+  },
+  "author": null,
+  "title": "Xpeng shares jump as China EV maker prices SUV below Tesla Model Y",
+  "description": ":Xpeng's U.S.-listed shares jumped more than 11 per cent on Friday after the electric-car maker priced its latest G6 sport utility vehicle about 20 per cent lower than Tesla's Model Y in China.The pricing comes at a time when U.S. automaker Tesla's sales in t…",
+  "url": "https://www.channelnewsasia.com/business/xpeng-shares-jump-china-ev-maker-prices-suv-below-tesla-model-y-3597936",
+  "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z",
+  "publishedAt": "2023-06-30T12:28:42Z",
+  "content": ":Xpeng's U.S.-listed shares jumped more than 11 per cent on Friday after the electric-car maker priced its latest G6 sport utility vehicle about 20 per cent lower than Tesla's Model Y in China.\r\nThe … [+1905 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Reuters",
+  "title": "Chinese EV maker Xpeng's shares jump after pricing SUV below Tesla Model Y, lifts peers",
+  "description": "U.S.-listed shares of its peers Li Auto and Nio also rose 0.3% and 2.2%, respectively, in trading before the bell.  Warren Buffett-backed BYD dominates the...",
+  "url": "https://finance.yahoo.com/news/chinese-ev-maker-xpengs-shares-122842070.html",
+  "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/ace50e36285a83515b8123ea6b94a8f9",
+  "publishedAt": "2023-06-30T12:28:42Z",
+  "content": "(Reuters) - Electric-car maker Xpeng Inc priced its latest G6 sport utility vehicle about 20% lower than Tesla's Model Y in China, sending its U.S.-listed shares up 7.6% in premarket trading on Frida… [+1582 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Marketscreener.com"
+  },
+  "author": "Reuters",
+  "title": "Chinese EV maker Xpeng's shares jump after pricing SUV below Tesla Model Y, lifts peers",
+  "description": "(marketscreener.com) Electric-car maker Xpeng Inc\npriced its latest G6 sport utility vehicle about 20%\nlower than Tesla's Model Y in China, sending its\nU.S.-listed shares up 7.6% in premarket trading on Friday.\n U.S.-listed shares of its peers Li Auto and Nio…",
+  "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Chinese-EV-maker-Xpeng-s-shares-jump-after-pricing-SUV-below-Tesla-Model-Y-lifts-peers-44241860/",
+  "urlToImage": "https://img.zonebourse.com/reuters/2023-03/2023-03-31T121201Z_1_LYNXMPEJ2U0JV_RTROPTP_3_TESLA-CHINA-COMPETITION.JPG",
+  "publishedAt": "2023-06-30T12:26:15Z",
+  "content": "June 30 (Reuters) - Electric-car maker Xpeng Inc\r\npriced its latest G6 sport utility vehicle about 20%\r\nlower than Tesla's Model Y in China, sending its\r\nU.S.-listed shares up 7.6% in premarket tradi… [+1613 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "247wallst.com",
+  "title": "Morning Blast: A $3 Trillion Company; a Boomlet in EV Stocks",
+  "description": "Premarket action on Friday had the three major U.S. indexes trading higher. The Dow Jones industrials were up 0.33%, the S&P 500 up 0.43% and the Nasdaq 0.55% higher. A reminder that U.S. equity markets close early (1:00 p.m. ET) on Monday and are closed all …",
+  "url": "https://biztoc.com/x/61b9b34bdd465066",
+  "urlToImage": "https://c.biztoc.com/p/61b9b34bdd465066/s.webp",
+  "publishedAt": "2023-06-30T12:26:05Z",
+  "content": "Premarket action on Friday had the three major U.S. indexes trading higher. The Dow Jones industrials were up 0.33%, the S&amp;P 500 up 0.43% and the Nasdaq 0.55% higher.A reminder that U.S. equity m… [+318 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "247wallst.com",
+  "title": "Polestar Surrenders to Tesla",
+  "description": "Polestar Automotive Holding UK PLC (NASDAQ: PSNY), one of many small electric vehicle (EV) companies, cannot sell many cars, nor can it make any money. It needs help selling vehicles in the United States. One solution is to offer more charging stations, which…",
+  "url": "https://biztoc.com/x/76d8b8d6ddc21a6c",
+  "urlToImage": "https://c.biztoc.com/p/76d8b8d6ddc21a6c/s.webp",
+  "publishedAt": "2023-06-30T12:26:04Z",
+  "content": "Polestar Automotive Holding UK PLC (NASDAQ: PSNY), one of many small electric vehicle (EV) companies, cannot sell many cars, nor can it make any money. It needs help selling vehicles in the United St… [+259 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Electrek"
+  },
+  "author": "Fred Lambert",
+  "title": "Tesla gives new owners in the UK a grabbing stick after forcing them to get left-hand-drive",
+  "description": "Tesla has started to deliver new Model S and Model X vehicles in the UK with a grabbing stick after they forced buyers to get left-hand-drive vehicles.\n more…\nThe post Tesla gives new owners in the UK a grabbing stick after forcing them to get left-hand-drive…",
+  "url": "https://electrek.co/2023/06/30/tesla-gives-new-owners-uk-grabbing-stick-after-forcing-left-hand-drive/",
+  "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/06/Screenshot-2023-06-30-at-7.59.40-AM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2023-06-30T12:06:15Z",
+  "content": "Tesla has started to deliver new Model S and Model X vehicles in the UK with a grabbing stick after they forced buyers to get left-hand-drive vehicles.\r\nLast month, we were surprised to see Tesla ann… [+1221 chars]"
+  },
+  {
+  "source": {
+  "id": "google-news",
+  "name": "Google News"
+  },
+  "author": null,
+  "title": "Tesla gives new owners in the UK a grabbing stick after forcing them to get left-hand-drive - Electrek.co",
+  "description": "Tesla gives new owners in the UK a grabbing stick after forcing them to get left-hand-drive  Electrek.co",
+  "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZWxlY3RyZWsuY28vMjAyMy8wNi8zMC90ZXNsYS1naXZlcy1uZXctb3duZXJzLXVrLWdyYWJiaW5nLXN0aWNrLWFmdGVyLWZvcmNpbmctbGVmdC1oYW5kLWRyaXZlL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+  "urlToImage": null,
+  "publishedAt": "2023-06-30T12:06:00Z",
+  "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Forbes"
+  },
+  "author": "Sarah Eccleston, Forbes Staff, \n Sarah Eccleston, Forbes Staff\n https://www.forbes.com/sites/saraheccleston/",
+  "title": "Forbes Under 30 Forum Spotlights Entrepreneurial Ireland",
+  "description": "This past Monday, the Forbes Under 30 Forum gathered more than 125 Listers, local entrepreneurs, business leaders, students and government officials for a day of networking.",
+  "url": "https://www.forbes.com/sites/saraheccleston/2023/06/30/forbes-under-30-forum-spotlights-entrepreneurial-ireland/",
+  "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/649e1183a1d2385ef66aa525/0x0.jpg?format=jpg&crop=2609,1467,x0,y130,safe&width=1200",
+  "publishedAt": "2023-06-30T12:00:00Z",
+  "content": "Forbes' Chief Content Officer Randall Lane and keynote speaker Dan Hobbs, cofounder and CEO of Protex AI, on-stage at the Forbes Under 30 Forum in Limerick, Ireland on June 26, 2023.\r\nDon Moloney\r\nTh… [+5353 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Slashdot.org"
+  },
+  "author": "feedfeeder",
+  "title": "Stock futures rise ahead of key inflation data: Stock market news today - Yahoo Finance",
+  "description": "Stock futures rise ahead of key inflation data: Stock market news todayYahoo Finance NDX: Nasdaq Ekes Out Tiny 0.3% Advance on Apple, Tesla GainsTradingView Dow Jones Rallies On Jobless Claims, Strong GDP; Cathie Wood Sells $7 Million In Tesla StockInvestor's…",
+  "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171278258",
+  "urlToImage": null,
+  "publishedAt": "2023-06-30T11:52:23Z",
+  "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "24/7 Wall St."
+  },
+  "author": "Paul Ausick",
+  "title": "Morning Blast: A $3 Trillion Company; a Boomlet in EV Stocks",
+  "description": "Apple is on its way to closing with a market value of $3 trillion. And what's the new-found investor lust for EV stocks all about?",
+  "url": "https://247wallst.com/investing/2023/06/30/morning-blast-a-3-trillion-company-a-boomlet-in-ev-stocks/",
+  "urlToImage": "https://247wallst.com/wp-content/uploads/2019/04/imageforentry34-c8l.jpg",
+  "publishedAt": "2023-06-30T11:40:48Z",
+  "content": "Premarket action on Friday had the three major U.S. indexes trading higher. The Dow Jones industrials were up 0.33%, the S&amp;P 500 up 0.43% and the Nasdaq 0.55% higher.\r\nA reminder that U.S. equity… [+4213 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "aol.com",
+  "title": "The stock market's gains are almost entirely concentrated in the 'Magnificent 7'",
+  "description": "All good things must end. I'm Phil Rosen, reporting from New York. This is the final edition of 10 Things Before the Opening Bell. It's been such an honor being in your inbox each morning for the last two years. Thank you for sharing your mornings with me. Bu…",
+  "url": "https://biztoc.com/x/f829ca08f638bc6e",
+  "urlToImage": "https://c.biztoc.com/p/f829ca08f638bc6e/s.webp",
+  "publishedAt": "2023-06-30T11:34:06Z",
+  "content": "All good things must end. I'm Phil Rosen, reporting from New York. This is the final edition of 10 Things Before the Opening Bell.It's been such an honor being in your inbox each morning for the last… [+274 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "aol.com",
+  "title": "Tesla stock's sizzling rally won't last as old-guard rivals like Ford and GM pile into the EV space, analyst says",
+  "description": "None Tesla's sizzling rally won't last forever due to old-guard rivals like Ford producing more EVs, according to one analyst. • None The tech giant's shares have soared 109% in 2023 thanks to a breakneck rally since late April. • None But some of Wall Street…",
+  "url": "https://biztoc.com/x/14b341d4175f77f5",
+  "urlToImage": "https://c.biztoc.com/p/14b341d4175f77f5/s.webp",
+  "publishedAt": "2023-06-30T11:34:05Z",
+  "content": "None Tesla's sizzling rally won't last forever due to old-guard rivals like Ford producing more EVs, according to one analyst.None The tech giant's shares have soared 109% in 2023 thanks to a breakne… [+292 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Moneycontrol"
+  },
+  "author": "Lionel Laurent",
+  "title": "Curbing reliance on China needs an army of workers",
+  "description": "$1 million of subsidies per giga-factory job says a lot about where the most urgent manufacturingÂ shortage lies",
+  "url": "https://www.moneycontrol.com/news/opinion/curbing-reliance-on-china-needs-an-army-of-workers-10883881.html",
+  "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/05/china-markets-rep-770x433.jpg",
+  "publishedAt": "2023-06-30T11:34:02Z",
+  "content": "If Roald Dahls stories were rewritten with industrial policy in mind, Charlie and the Chocolate Giga-factory would be a European bestseller. Nothing inspires childlike wonder among politicians like t… [+4997 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "24/7 Wall St."
+  },
+  "author": "Douglas A. McIntyre",
+  "title": "Polestar Surrenders to Tesla",
+  "description": "Polestar, one of many small EV companies, will use Tesla’s charging station footprint.",
+  "url": "https://247wallst.com/autos/2023/06/30/polestar-surrenders-to-tesla/",
+  "urlToImage": "https://247wallst.com/wp-content/uploads/2020/04/imageForEntry15-r9B.jpg",
+  "publishedAt": "2023-06-30T11:30:09Z",
+  "content": "Polestar Automotive Holding UK PLC (NASDAQ: PSNY), one of many small electric vehicle (EV) companies, cannot sell many cars, nor can it make any money. It needs help selling vehicles in the United St… [+2270 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Quartz India"
+  },
+  "author": "Mary Hui",
+  "title": "Japan is training teenagers to fill the talent gap in its EV battery industry",
+  "description": "After years of outsourcing manufacturing to China, countries are finding that their pools of talent have dried up. Just as they’re looking to produce their own batteries and rare earth permanent magnets—both critical for electric vehicles—they don’t have the …",
+  "url": "https://qz.com/japan-is-training-teenagers-to-fill-the-talent-gap-in-i-1850593710",
+  "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7727d5e48955d8af18f6a73e8aff20f1.jpg",
+  "publishedAt": "2023-06-30T11:30:00Z",
+  "content": "After years of outsourcing manufacturing to China, countries are finding that their pools of talent have dried up. Just as theyre looking to produce their own batteries and rare earth permanent magne… [+2694 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MarketWatch"
+  },
+  "author": "Tomi Kilgore",
+  "title": ": XPeng stock jumps toward a 9-month high as new G6 coupe SUV is launched",
+  "description": "XPeng's stock surged Friday, after the China-based electric vehicle maker launched its G6 Ultra Smart Coupe SUV, with deliveries to start in China in July.",
+  "url": "https://www.marketwatch.com/story/xpeng-stock-jumps-toward-a-9-month-high-as-new-g6-coupe-suv-is-launched-5e8733b0",
+  "urlToImage": "https://images.mktw.net/im-809970/social",
+  "publishedAt": "2023-06-30T11:24:41Z",
+  "content": "Shares of XPeng Inc. surged Friday, after the China-based electric vehicle maker launched its G6 Ultra Smart Coupe SUV, with deliveries to start in China in July.The price of the sporty sport-utility… [+2126 chars]"
+  },
+  {
+  "source": {
+  "id": "business-insider",
+  "name": "Business Insider"
+  },
+  "author": "psyme@insider.com (Pete Syme)",
+  "title": "The circus around Elon Musk and Mark Zuckerberg's much-vaunted fight is getting even stranger, with suggestions the bout could happen in the Colosseum",
+  "description": "TMZ reported that senior officials from Italy's government had been in contact with Zuckerberg about hosting a fight in the landmark.",
+  "url": "https://www.businessinsider.com/elon-musk-v-mark-zuckerberg-could-happen-in-romes-colosseum-2023-6",
+  "urlToImage": "https://i.insider.com/649eb1146e35e9001af90f39?width=1200&format=jpeg",
+  "publishedAt": "2023-06-30T11:23:26Z",
+  "content": "The circus around the potential fight between Mark Zuckerberg and Elon Musk is getting even stranger with claims it could take place in Rome's ancient Colosseum.\r\nTMZ reported Friday that Italy's cul… [+2053 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Motley Fool"
+  },
+  "author": "newsfeedback@fool.com (Anders Bylund)",
+  "title": "Why AI Stocks Unity, Aurora, and SoundHound Are Soaring Again This Week",
+  "description": "What's driving these tech stocks higher this week? Spoiler alert: It's mostly the AI market's unrelenting buzz.",
+  "url": "https://www.fool.com/investing/2023/06/30/why-ai-stocks-unity-aurora-and-soundhound-soared/",
+  "urlToImage": "https://g.foolcdn.com/editorial/images/738152/self-driving-autonomous-driving.jpg",
+  "publishedAt": "2023-06-30T11:21:00Z",
+  "content": "What happened\r\nStocks with ties to artificial intelligence (AI) are having another fantastic week. Here's how a few AI stocks have fared recently, according to data from S&amp;P Global Market Intelli… [+3836 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "International Business Times"
+  },
+  "author": "Kent Masing",
+  "title": "Here's How Much Elon Musk Earns Per Second As The Richest Person On Earth",
+  "description": "Elon Musk, the world's richest man, saw his wealth dramatically rise in ten years and now earns more than $700 per second.",
+  "url": "https://www.ibtimes.com/heres-how-much-elon-musk-earns-per-second-richest-person-earth-3702828",
+  "urlToImage": "https://d.ibtimes.com/en/full/4462090/tesla-boss-elon-musk-took-over-twitter-october-2022.jpg",
+  "publishedAt": "2023-06-30T11:20:01Z",
+  "content": "AFP\r\nKEY POINTS\r\n<ul><li>Elon Musk has accumulated estimated earnings of $226.5 billion in the past ten years</li><li>The Tesla CEO earns $43,093.61 per minute and $718.22 per second</li><li>Musk's a… [+3039 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "thestreet.com",
+  "title": "Tesla Preview: Record Q2 Deliveries May Cloud Tricky Profit Story As Discounts Pressure Margins",
+  "description": "Get Free Report shares moved higher Friday as investors looked to the carmaker's key second quarter delivery figures and the impact of cost cuts and purchase incentives amid slowing consumer spending and increased EV competition in key markets. Tesla is set t…",
+  "url": "https://biztoc.com/x/a2a2e921bcf22c43",
+  "urlToImage": "https://c.biztoc.com/p/a2a2e921bcf22c43/s.webp",
+  "publishedAt": "2023-06-30T11:16:12Z",
+  "content": "Get Free Report shares moved higher Friday as investors looked to the carmaker's key second quarter delivery figures and the impact of cost cuts and purchase incentives amid slowing consumer spending… [+327 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "PRNewswire"
+  },
+  "author": null,
+  "title": "Lithium-ion Battery Market size to grow by USD 198.26 billion from 2022 to 2027|Augmented demand from consumer electronics to boost the market growth- Technavio",
+  "description": "NEW YORK, June 30, 2023 /PRNewswire/ -- The global lithium-ion battery market size is estimated to grow by USD 198.26 billion from 2022 to 2027, according to Technavio. The market is estimated to grow at a CAGR of 31% during the forecast period. APAC is estim…",
+  "url": "https://www.prnewswire.com/news-releases/lithium-ion-battery-market-size-to-grow-by-usd-198-26-billion-from-2022-to-2027augmented-demand-from-consumer-electronics-to-boost-the-market-growth--technavio-301867162.html",
+  "urlToImage": "https://mma.prnewswire.com/media/2144345/20230628070359_bw_2023_v1.jpg?p=facebook",
+  "publishedAt": "2023-06-30T11:15:00Z",
+  "content": "NEW YORK, June 30, 2023 /PRNewswire/ -- The global lithium-ion battery market size is estimated to grow by USD 198.26 billion from 2022 to 2027, according to Technavio. The market is estimated to gro… [+9555 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MarketWatch"
+  },
+  "author": "Barbara Kollmeyer",
+  "title": "Need to Know: These strategists say investors need quality, so sell Tesla and AMD, and buy these stocks instead.",
+  "description": "It's time to look ahead to a new quarter and final half of the year. Piper Sandler offers some stock ideas to sell and buy.",
+  "url": "https://www.marketwatch.com/story/these-strategists-say-investors-need-quality-so-sell-tesla-and-amd-and-buy-these-stocks-instead-38f70ca8",
+  "urlToImage": "https://images.mktw.net/im-809989/social",
+  "publishedAt": "2023-06-30T11:08:32Z",
+  "content": "Here comes the third quarter, next stop, the rest of the year. Judging by stock futures action, the first half could end on a positive note. Thats as the S&amp;P 500 \r\n SPX,\r\n +0.45%\r\nis set to close… [+6249 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "benzinga.com",
+  "title": "Want Your Tesla Cybertruck In Black Matte Or Blue Satin? This Company Gives You 100 Wrap Options",
+  "description": "Vehicle graphics company Wrapmate has launched a wrap configurator for Tesla Inc‘s TSLA upcoming Cybertruck, allowing users to visualize the truck in different shades and colors. What Happened: The configurator offers nearly 100 wrap options, including variou…",
+  "url": "https://biztoc.com/x/36e46b699de19cc9",
+  "urlToImage": "https://c.biztoc.com/p/36e46b699de19cc9/s.webp",
+  "publishedAt": "2023-06-30T11:06:09Z",
+  "content": "Vehicle graphics company Wrapmate has launched a wrap configurator for Tesla Incs TSLA upcoming Cybertruck, allowing users to visualize the truck in different shades and colors.What Happened: The con… [+273 chars]"
+  }
+  ]
+  }
+
+  ]
+}
