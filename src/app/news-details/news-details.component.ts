@@ -19,13 +19,7 @@ export class NewsDetailsComponent {
 
     this.displayDetails();
     
-    // const apiKey = '14b769cfef324452992bec95cf05384';
-    // const apiUrl = `https://newsapi.org/v2/top-headlines?title=${title}&apiKey=${apiKey}`;
-
-    // this.http.get<any>(apiUrl).subscribe(data => {
-    //   console.log(data);
-    //   this.news = data.articles[0];
-    // });
+    
   }
 
   displayDetails(){
